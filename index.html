@@ -4,43 +4,42 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sober Mindset</title>
-    <link rel="stylesheet" href="./resources/css/index.css">
+    <link rel="stylesheet" href="resources/css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
 </head>
+<body>
 
-    <!-- Top Banner -->
-    <header class="top-banner">
-        <div class="logo">
-            <img src="./resources/images/IMG_9754.jpg" alt="Sober Mindset Logo">
-        </div>
+<!-- Top Banner -->
+<header class="top-banner">
+    <div class="logo">
+        <img src="./resources/images/IMG_9754.jpg" alt="Sober Mindset Logo">
+    </div>
+    <div class="banner-title">
+        <h1>Sober Mindset</h1>
+    </div>
+    <div class="banner-button">
+        <button onclick="document.getElementById('daily-email-modal').style.display='flex'">Members Daily Email</button>
+    </div>
+</header>
 
-        <div class="banner-title">
-            <h1>Sober Mindset</h1>
-        </div>
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-overlay">
+        <p class="quote">"New beginnings are often disguised as painful endings"</p>
+        <span class="quote-author">— Lao Tzu</span>
+    </div>
+</section>
 
-        <div class="banner-button">
-            <button>Members Daily Email</button>
-        </div>
-    </header>
-
-    <!-- Hero Section -->
-    <section class="hero">
-        <div class="hero-overlay">
-            <p class="quote">
-                "New beginnings are often disguised as painful endings"
-            </p>
-            <span class="quote-author">— Lao Tzu</span>
-        </div>
-    </section>
-
-    <!-- Intro Section -->
-    <section class="intro">
-        <p>
-            The last drink may feel like an impossible future, but it could also be the beginning of something you couldn't even dream of.
-            Sober Mindset is here to support people who want to build a better future.
-            Whether you're questioning your drinking, starting sobriety, or trying to stay on track,
-            this space is about hope, support, and creating a life you can be present for.
-        </p>
-    </section>
+<!-- Intro Section -->
+<section class="intro">
+    <p>
+        The last drink may feel like an impossible future, but it could also be the beginning of something you couldn't even dream of.
+        Sober Mindset is here to support people who want to build a better future.
+        Whether you're questioning your drinking, starting sobriety, or trying to stay on track,
+        this space is about hope, support, and creating a life you can be present for.
+    </p>
+</section>
 
 <!-- 3 Steps -->
 <div class="steps">
@@ -50,60 +49,391 @@
         <li>Seek Support</li>
         <li>Build New Habits</li>
     </ol>
-    <p>
-        These are the foundation on what you will biuld your new life on.
-        Master these, and everything starts to change.
-    </p>
+    <p>These are the foundation on which you will build your new life. Master these, and everything starts to change.</p>
 </div>
 
 <!-- Step Details -->
 <div class="details">
     <div class="detail-box">
         <h3>Acknowledge You Have a Problem</h3>
-        <p>
-            This is the most important step.
-            Be honest with yourself and admit there is a problem.
-            Write down your thoughts and feelings.
-            Talk to someone you trust.
-            The truth is where change begins.
-        </p>
+        <p>This is the most important step. Be honest with yourself and admit there is a problem. Write down your thoughts and feelings. Talk to someone you trust. The truth is where change begins.</p>
     </div>
-
     <div class="detail-box">
         <h3>Seek Support</h3>
-        <p>
-            You don’t have to do this alone.
-            Support can come from therapy, meetings, friends, or family.
-            Find what works for you and use it.
-        </p>
+        <p>You don't have to do this alone. Support can come from therapy, meetings, friends, or family. Find what works for you and use it.</p>
     </div>
-
     <div class="detail-box">
         <h3>Build New Habits & a New Life</h3>
-        <p>
-            Sobriety is about creating a life you don’t want to escape from.
-            Start small—one week sober, a new routine, a new hobby.
-            Every small win builds confidence.
-        </p>
+        <p>Sobriety is about creating a life you don't want to escape from. Start small — one week sober, a new routine, a new hobby. Every small win builds confidence.</p>
     </div>
 </div>
 
-<!-- Call to Action -->
-<div class="cta">
-    <button class="AA">Find an AA Meeting</button> 
-    <button class="NA">Find an NA Meeting</button>
-    <button class="SA">Find an SA Meeting</button>
+<!-- ───────────────────────────────────────── -->
+<!-- DAILY REFLECTION -->
+<!-- ───────────────────────────────────────── -->
+<section class="container-section" id="daily-reflection">
+    <div class="section-header">
+        <h2>Daily Reflection</h2>
+        <p class="section-sub">A reading and meditation for each day of the year</p>
+    </div>
 
-    <p>
-        If you're trying to get sober, go to a meeting.
-        Even if you're unsure, just listen.
-        Take what helps and leave the rest.
-        Your mind may resist—but that’s normal.
-        The real question is:
-        What do you want?
-        A better future is possible.
-    </p>
+    <div class="reflection-card">
+        <div class="reflection-date-nav">
+            <button class="nav-btn" id="prev-date" onclick="changeDate(-1)">&#8592;</button>
+            <span class="reflection-date-label" id="reflection-date-display"></span>
+            <button class="nav-btn" id="next-date" onclick="changeDate(1)">&#8594;</button>
+        </div>
+        <div class="reflection-body" id="reflection-body">
+            <div class="ai-loading">
+                <div class="spinner"></div>
+                <p>Loading today's reflection…</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ───────────────────────────────────────── -->
+<!-- EARLY SOBRIETY ACTIVITIES -->
+<!-- ───────────────────────────────────────── -->
+<section class="container-section" id="activities">
+    <div class="section-header">
+        <h2>Early Sobriety Activities</h2>
+        <p class="section-sub">Simple things to fill the time and build a life worth living</p>
+    </div>
+    <div class="activities-grid">
+        <div class="activity-card">🚶 <span>Go for a walk</span></div>
+        <div class="activity-card">🧘 <span>Stretch for 10 minutes</span></div>
+        <div class="activity-card">📖 <span>Pick up a book</span></div>
+        <div class="activity-card">📓 <span>Write in a journal</span></div>
+        <div class="activity-card">🎨 <span>Start a new hobby</span></div>
+        <div class="activity-card">🍳 <span>Cook a real meal</span></div>
+        <div class="activity-card">🌿 <span>Spend time in nature</span></div>
+        <div class="activity-card">📞 <span>Call your sponsor</span></div>
+        <div class="activity-card">🏊 <span>Swim or exercise</span></div>
+        <div class="activity-card">🎵 <span>Listen to music</span></div>
+        <div class="activity-card">🧩 <span>Solve a puzzle</span></div>
+        <div class="activity-card">🌅 <span>Watch the sunrise</span></div>
+    </div>
+</section>
+
+<!-- ───────────────────────────────────────── -->
+<!-- DAILY AFFIRMATIONS -->
+<!-- ───────────────────────────────────────── -->
+<section class="container-section" id="affirmations">
+    <div class="section-header">
+        <h2>Daily Affirmations</h2>
+        <p class="section-sub">Three new affirmations each day to carry with you</p>
+    </div>
+    <div class="affirmations-wrap" id="affirmations-body">
+        <div class="ai-loading">
+            <div class="spinner"></div>
+            <p>Generating today's affirmations…</p>
+        </div>
+    </div>
+</section>
+
+<!-- ───────────────────────────────────────── -->
+<!-- GRATITUDE PRAYER -->
+<!-- ───────────────────────────────────────── -->
+<section class="container-section" id="gratitude">
+    <div class="section-header">
+        <h2>Gratitude</h2>
+        <p class="section-sub">A daily gratitude prayer to keep perspective</p>
+    </div>
+    <div class="gratitude-wrap" id="gratitude-body">
+        <div class="ai-loading">
+            <div class="spinner"></div>
+            <p>Preparing today's gratitude prayer…</p>
+        </div>
+    </div>
+</section>
+
+<!-- ───────────────────────────────────────── -->
+<!-- CTA — Meetings -->
+<!-- ───────────────────────────────────────── -->
+<div class="cta">
+    <button class="AA" onclick="window.open('https://www.aa.org/find-aa','_blank')">Find an AA Meeting</button>
+    <button class="NA" onclick="window.open('https://www.na.org/meetingsearch/','_blank')">Find an NA Meeting</button>
+    <button class="SA" onclick="window.open('https://sa.org/find-a-meeting/','_blank')">Find an SA Meeting</button>
+    <p>If you're trying to get sober, go to a meeting. Even if you're unsure, just listen. Take what helps and leave the rest. Your mind may resist — but that's normal. The real question is: What do you want? A better future is possible.</p>
 </div>
+
+<!-- ───────────────────────────────────────── -->
+<!-- ONLINE MEETING NOW -->
+<!-- ───────────────────────────────────────── -->
+<section class="container-section online-meeting-section" id="online-now">
+    <div class="online-pulse"></div>
+    <h2>Online Meeting — Available Now</h2>
+    <p>You don't have to wait. An online meeting is available right now. Click below to join anonymously from wherever you are.</p>
+    <div class="online-buttons">
+        <a href="https://aa-intergroup.org/meetings/" target="_blank" class="online-btn aa-online">Join an AA Online Meeting</a>
+        <a href="https://virtual-na.org/" target="_blank" class="online-btn na-online">Join an NA Online Meeting</a>
+        <a href="https://www.intherooms.com" target="_blank" class="online-btn room-online">In The Rooms (All Programs)</a>
+    </div>
+</section>
+
+<!-- ───────────────────────────────────────── -->
+<!-- MEETING LOCATION SEARCH -->
+<!-- ───────────────────────────────────────── -->
+<section class="container-section" id="meeting-finder">
+    <div class="section-header">
+        <h2>Find Meetings Near You</h2>
+        <p class="section-sub">Enter your city or postal code to find local meetings</p>
+    </div>
+    <div class="search-wrap">
+        <input type="text" id="location-input" placeholder="e.g. Calgary, AB or T2P 1J9" />
+        <div class="search-buttons">
+            <button onclick="findMeetings('AA')" class="search-btn aa-btn">Search AA</button>
+            <button onclick="findMeetings('NA')" class="search-btn na-btn">Search NA</button>
+            <button onclick="findMeetings('SA')" class="search-btn sa-btn">Search SA</button>
+        </div>
+    </div>
+    <div id="meeting-results" class="meeting-results"></div>
+</section>
+
+<!-- ───────────────────────────────────────── -->
+<!-- CRISIS & SUPPORT -->
+<!-- ───────────────────────────────────────── -->
+<section class="crisis-section" id="crisis">
+    <h2>If You're in Crisis — You Are Not Alone</h2>
+    <p class="crisis-intro">If you're having thoughts of suicide or self-harm, please reach out right now. Help is available 24/7.</p>
+
+    <div class="crisis-grid">
+        <div class="crisis-card emergency">
+            <div class="crisis-icon">🆘</div>
+            <h3>Emergency</h3>
+            <p>If you are in immediate danger</p>
+            <a href="tel:911" class="crisis-btn">Call 911</a>
+        </div>
+        <div class="crisis-card">
+            <div class="crisis-icon">💬</div>
+            <h3>Canada — Talk Suicide</h3>
+            <p>24/7 crisis support, call or text</p>
+            <a href="tel:18334564566" class="crisis-btn">1-833-456-4566</a>
+            <a href="sms:45645" class="crisis-btn secondary-btn">Text 45645</a>
+        </div>
+        <div class="crisis-card">
+            <div class="crisis-icon">🌐</div>
+            <h3>International Association for Suicide Prevention</h3>
+            <p>Find crisis centres worldwide</p>
+            <a href="https://www.iasp.info/resources/Crisis_Centres/" target="_blank" class="crisis-btn">Find a Crisis Centre</a>
+        </div>
+        <div class="crisis-card">
+            <div class="crisis-icon">🤝</div>
+            <h3>SAMHSA Helpline (USA)</h3>
+            <p>Free, confidential, 24/7 mental health & substance use</p>
+            <a href="tel:18006624357" class="crisis-btn">1-800-662-4357</a>
+        </div>
+        <div class="crisis-card">
+            <div class="crisis-icon">📱</div>
+            <h3>Crisis Text Line</h3>
+            <p>Text HOME to 741741 (USA/Canada)</p>
+            <a href="sms:741741" class="crisis-btn">Text HOME to 741741</a>
+        </div>
+        <div class="crisis-card">
+            <div class="crisis-icon">🧠</div>
+            <h3>BetterHelp — Online Counselling</h3>
+            <p>Professional therapy available online</p>
+            <a href="https://www.betterhelp.com" target="_blank" class="crisis-btn">Find a Therapist</a>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+<footer class="site-footer">
+    <p>Sober Mindset &copy; 2025 — One day at a time.</p>
+    <p class="footer-disclaimer">This site is not affiliated with Alcoholics Anonymous World Services. Content is for support purposes only and is not a substitute for professional medical advice.</p>
+</footer>
+
+<!-- Email modal (placeholder) -->
+<div id="daily-email-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:1000;align-items:center;justify-content:center;">
+    <div style="background:#f5f1e8;padding:40px;border-radius:16px;max-width:400px;width:90%;text-align:center;">
+        <h3 style="margin-bottom:15px;color:#3a2a1a;">Members Daily Email</h3>
+        <p style="margin-bottom:20px;color:#555;">Sign up to receive your daily reflection, affirmations, and gratitude prayer by email each morning.</p>
+        <input type="email" placeholder="your@email.com" style="width:100%;padding:12px;border:1px solid #b89663;border-radius:8px;margin-bottom:15px;font-size:1rem;">
+        <button style="background:#6b3e26;color:white;border:none;padding:12px 24px;border-radius:8px;cursor:pointer;font-size:1rem;width:100%;">Subscribe</button>
+        <p style="margin-top:15px;"><a href="#" onclick="document.getElementById('daily-email-modal').style.display='none'" style="color:#6b3e26;">Close</a></p>
+    </div>
+</div>
+
+<script>
+// ─── Date state ───────────────────────────────────────
+let currentDate = new Date();
+
+function formatDate(d) {
+    return d.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+}
+
+function dateKey(d) {
+    return d.toISOString().split('T')[0]; // YYYY-MM-DD
+}
+
+function changeDate(delta) {
+    currentDate.setDate(currentDate.getDate() + delta);
+    document.getElementById('reflection-date-display').textContent = formatDate(currentDate);
+    loadReflection(currentDate);
+}
+
+// ─── Anthropic API call ───────────────────────────────
+async function callClaude(prompt, systemPrompt) {
+    const response = await fetch("https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+            model: "claude-sonnet-4-20250514",
+            max_tokens: 1000,
+            system: systemPrompt,
+            messages: [{ role: "user", content: prompt }]
+        })
+    });
+    const data = await response.json();
+    return data.content.map(b => b.text || '').join('');
+}
+
+// ─── Cache helper ─────────────────────────────────────
+function cacheGet(key) {
+    try { const v = sessionStorage.getItem(key); return v ? JSON.parse(v) : null; } catch { return null; }
+}
+function cacheSet(key, val) {
+    try { sessionStorage.setItem(key, JSON.stringify(val)); } catch {}
+}
+
+// ─── Daily Reflection ────────────────────────────────
+async function loadReflection(date) {
+    const key = 'reflection_' + dateKey(date);
+    const cached = cacheGet(key);
+    if (cached) { renderReflection(cached); return; }
+
+    document.getElementById('reflection-body').innerHTML = `<div class="ai-loading"><div class="spinner"></div><p>Loading reflection for ${formatDate(date)}…</p></div>`;
+
+    const month = date.toLocaleString('default', { month: 'long' });
+    const day = date.getDate();
+    const prompt = `Date: ${month} ${day}. Write a daily sobriety reflection in the style of AA's Daily Reflections book. 
+Return ONLY valid JSON, no markdown, no backticks:
+{"theme":"short theme title","quote":"an appropriate short quote relevant to sobriety (can be from literature, philosophy, or spiritual writing — not from AA copyright)","quoteAuthor":"author name","reading":"2-3 paragraphs of reflection on sobriety, recovery, and personal growth relevant to this time of year","meditation":"1 short closing meditation thought (1-2 sentences)"}`;
+
+    try {
+        const raw = await callClaude(prompt, 'You write thoughtful, grounded sobriety reflections. Respond ONLY with valid JSON, no markdown formatting, no backticks.');
+        const clean = raw.replace(/```json|```/g, '').trim();
+        const data = JSON.parse(clean);
+        cacheSet(key, data);
+        renderReflection(data);
+    } catch(e) {
+        document.getElementById('reflection-body').innerHTML = '<p class="ai-error">Could not load reflection. Please try again.</p>';
+    }
+}
+
+function renderReflection(data) {
+    document.getElementById('reflection-body').innerHTML = `
+        <div class="reflection-theme">${data.theme}</div>
+        <blockquote class="reflection-quote">
+            <p>"${data.quote}"</p>
+            <cite>— ${data.quoteAuthor}</cite>
+        </blockquote>
+        <div class="reflection-reading">${data.reading.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}</div>
+        <div class="reflection-meditation">
+            <strong>Meditation:</strong> ${data.meditation}
+        </div>
+    `;
+}
+
+// ─── Daily Affirmations ───────────────────────────────
+async function loadAffirmations() {
+    const today = dateKey(new Date());
+    const key = 'affirmations_' + today;
+    const cached = cacheGet(key);
+    if (cached) { renderAffirmations(cached); return; }
+
+    try {
+        const raw = await callClaude(
+            `Date: ${today}. Generate 3 powerful daily affirmations for someone in recovery from addiction. They should be personal, grounded, and specific to sobriety — not generic positivity. Return ONLY valid JSON, no markdown: {"affirmations":["affirmation 1","affirmation 2","affirmation 3"]}`,
+            'You write affirmations for people in addiction recovery. Respond ONLY with valid JSON, no markdown, no backticks.'
+        );
+        const clean = raw.replace(/```json|```/g, '').trim();
+        const data = JSON.parse(clean);
+        cacheSet(key, data);
+        renderAffirmations(data);
+    } catch {
+        document.getElementById('affirmations-body').innerHTML = '<p class="ai-error">Could not load affirmations. Please refresh.</p>';
+    }
+}
+
+function renderAffirmations(data) {
+    document.getElementById('affirmations-body').innerHTML = data.affirmations.map((a, i) => `
+        <div class="affirmation-card">
+            <span class="affirmation-number">${i + 1}</span>
+            <p>${a}</p>
+        </div>
+    `).join('');
+}
+
+// ─── Gratitude Prayer ─────────────────────────────────
+async function loadGratitude() {
+    const today = dateKey(new Date());
+    const key = 'gratitude_' + today;
+    const cached = cacheGet(key);
+    if (cached) { renderGratitude(cached); return; }
+
+    try {
+        const raw = await callClaude(
+            `Date: ${today}. Write a short daily gratitude prayer for someone in sobriety. It should acknowledge struggle, growth, and simple gifts of a sober life. 2-4 sentences. Return ONLY valid JSON: {"prayer":"the full prayer text","closing":"a single closing line or amen"}`,
+            'You write gratitude prayers for people in addiction recovery. Respond ONLY with valid JSON, no markdown, no backticks.'
+        );
+        const clean = raw.replace(/```json|```/g, '').trim();
+        const data = JSON.parse(clean);
+        cacheSet(key, data);
+        renderGratitude(data);
+    } catch {
+        document.getElementById('gratitude-body').innerHTML = '<p class="ai-error">Could not load gratitude prayer. Please refresh.</p>';
+    }
+}
+
+function renderGratitude(data) {
+    document.getElementById('gratitude-body').innerHTML = `
+        <div class="gratitude-card">
+            <p class="prayer-text">${data.prayer}</p>
+            <p class="prayer-closing">${data.closing}</p>
+        </div>
+    `;
+}
+
+// ─── Meeting Finder ───────────────────────────────────
+function findMeetings(type) {
+    const loc = document.getElementById('location-input').value.trim();
+    if (!loc) {
+        document.getElementById('meeting-results').innerHTML = '<p class="search-prompt">Please enter a location above.</p>';
+        return;
+    }
+    const encoded = encodeURIComponent(loc);
+    let url, label;
+    if (type === 'AA') {
+        url = `https://www.aa.org/find-aa?field_location_value=${encoded}`;
+        label = 'AA';
+    } else if (type === 'NA') {
+        url = `https://www.na.org/meetingsearch/?country=CA&state=AB&city=${encoded}`;
+        label = 'NA';
+    } else {
+        url = `https://sa.org/find-a-meeting/?location=${encoded}`;
+        label = 'SA';
+    }
+
+    document.getElementById('meeting-results').innerHTML = `
+        <div class="meeting-result-info">
+            <p>Searching <strong>${label}</strong> meetings near <strong>${loc}</strong>.</p>
+            <p>Meeting directories are maintained by each organization. Click below to view live results:</p>
+            <a href="${url}" target="_blank" class="meeting-external-link">Open ${label} Meeting Finder →</a>
+        </div>
+    `;
+}
+
+// ─── Init ─────────────────────────────────────────────
+document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('reflection-date-display').textContent = formatDate(currentDate);
+    loadReflection(currentDate);
+    loadAffirmations();
+    loadGratitude();
+});
+</script>
 
 </body>
 </html>
