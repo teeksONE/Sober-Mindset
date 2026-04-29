@@ -13,7 +13,7 @@
 <!-- Top Banner -->
 <header class="top-banner">
     <div class="logo">
-        <img src="./resources/images/IMG_9754.jpg" alt="Sober Mindset Logo">
+        <img src="./files/IMG_9754.jpg" alt="Sober Mindset Logo">
     </div>
     <div class="banner-title">
         <h1>Sober Mindset</h1>
@@ -22,6 +22,17 @@
         <button onclick="document.getElementById('daily-email-modal').style.display='flex'">Members Daily Email</button>
     </div>
 </header>
+
+<!-- Site Navigation -->
+<nav class="site-nav">
+    <a href="index.html" class="active">Home</a>
+    <a href="fitness.html">Fitness</a>
+    <a href="nutrition.html">Nutrition</a>
+    <a href="sleep.html">Sleep</a>
+    <a href="support.html">Support</a>
+    <a href="meditation.html">Meditation</a>
+    <a href="hobbies.html">Hobbies</a>
+</nav>
 
 <!-- Hero Section -->
 <section class="hero">
@@ -41,56 +52,82 @@
     </p>
 </section>
 
-<!-- 3 Steps -->
-<div class="steps">
+<!-- 3 Steps (Interactive) -->
+<section class="steps">
     <h2>First 3 Steps to Sobriety</h2>
-    <ol>
-        <li>Acknowledge You Have a Problem</li>
-        <li>Seek Support</li>
-        <li>Build New Habits</li>
+    <p class="section-sub">Tap a step to read more</p>
+    <ol class="steps-tabs">
+        <li class="step-tab active" data-step="1" onclick="selectStep(1)">
+            <span class="step-num">1</span>
+            <span class="step-title">Acknowledge</span>
+        </li>
+        <li class="step-tab" data-step="2" onclick="selectStep(2)">
+            <span class="step-num">2</span>
+            <span class="step-title">Seek Support</span>
+        </li>
+        <li class="step-tab" data-step="3" onclick="selectStep(3)">
+            <span class="step-num">3</span>
+            <span class="step-title">Build New Habits</span>
+        </li>
     </ol>
-    <p>These are the foundation on which you will build your new life. Master these, and everything starts to change.</p>
-</div>
-
-<!-- Step Details -->
-<div class="details">
-    <div class="detail-box">
-        <h3>Acknowledge You Have a Problem</h3>
-        <p>This is the most important step. Be honest with yourself and admit there is a problem. Write down your thoughts and feelings. Talk to someone you trust. The truth is where change begins.</p>
-    </div>
-    <div class="detail-box">
-        <h3>Seek Support</h3>
-        <p>You don't have to do this alone. Support can come from therapy, meetings, friends, or family. Find what works for you and use it.</p>
-    </div>
-    <div class="detail-box">
-        <h3>Build New Habits & a New Life</h3>
-        <p>Sobriety is about creating a life you don't want to escape from. Start small — one week sober, a new routine, a new hobby. Every small win builds confidence.</p>
-    </div>
-</div>
+    <div class="step-panel" id="step-panel"></div>
+    <p class="steps-foot">These are the foundation on which you will build your new life. Master these, and everything starts to change.</p>
+</section>
 
 <!-- ───────────────────────────────────────── -->
-<!-- DAILY REFLECTION -->
+<!-- GRATITUDE PRAYER -->
 <!-- ───────────────────────────────────────── -->
-<section class="container-section" id="daily-reflection">
+<section class="container-section gratitude-section" id="gratitude">
     <div class="section-header">
-        <h2>Daily Reflection</h2>
-        <p class="section-sub">A reading and meditation for each day of the year</p>
+        <h2>Daily Gratitude Prayer</h2>
+        <p class="section-sub">A moment of perspective for today</p>
     </div>
-
-    <div class="reflection-card">
-        <div class="reflection-date-nav">
-            <button class="nav-btn" id="prev-date" onclick="changeDate(-1)">&#8592;</button>
-            <span class="reflection-date-label" id="reflection-date-display"></span>
-            <button class="nav-btn" id="next-date" onclick="changeDate(1)">&#8594;</button>
-        </div>
-        <div class="reflection-body" id="reflection-body">
-            <div class="ai-loading">
-                <div class="spinner"></div>
-                <p>Loading today's reflection…</p>
-            </div>
+    <div class="gratitude-wrap" id="gratitude-body">
+        <div class="ai-loading">
+            <div class="spinner"></div>
+            <p>Preparing today's gratitude prayer…</p>
         </div>
     </div>
 </section>
+
+<!-- ───────────────────────────────────────── -->
+<!-- REFLECTION + AFFIRMATIONS (side-by-side) -->
+<!-- ───────────────────────────────────────── -->
+<div class="duo-grid">
+    <section class="container-section" id="daily-reflection">
+        <div class="section-header">
+            <h2>Daily Reflection</h2>
+            <p class="section-sub">A reading and meditation for each day</p>
+        </div>
+
+        <div class="reflection-card">
+            <div class="reflection-date-nav">
+                <button class="nav-btn" id="prev-date" onclick="changeDate(-1)">&#8592;</button>
+                <span class="reflection-date-label" id="reflection-date-display"></span>
+                <button class="nav-btn" id="next-date" onclick="changeDate(1)">&#8594;</button>
+            </div>
+            <div class="reflection-body" id="reflection-body">
+                <div class="ai-loading">
+                    <div class="spinner"></div>
+                    <p>Loading today's reflection…</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container-section" id="affirmations">
+        <div class="section-header">
+            <h2>Daily Affirmations</h2>
+            <p class="section-sub">Three to carry with you today</p>
+        </div>
+        <div class="affirmations-wrap" id="affirmations-body">
+            <div class="ai-loading">
+                <div class="spinner"></div>
+                <p>Generating today's affirmations…</p>
+            </div>
+        </div>
+    </section>
+</div>
 
 <!-- ───────────────────────────────────────── -->
 <!-- EARLY SOBRIETY ACTIVITIES -->
@@ -115,48 +152,6 @@
         <div class="activity-card">🌅 <span>Watch the sunrise</span></div>
     </div>
 </section>
-
-<!-- ───────────────────────────────────────── -->
-<!-- DAILY AFFIRMATIONS -->
-<!-- ───────────────────────────────────────── -->
-<section class="container-section" id="affirmations">
-    <div class="section-header">
-        <h2>Daily Affirmations</h2>
-        <p class="section-sub">Three new affirmations each day to carry with you</p>
-    </div>
-    <div class="affirmations-wrap" id="affirmations-body">
-        <div class="ai-loading">
-            <div class="spinner"></div>
-            <p>Generating today's affirmations…</p>
-        </div>
-    </div>
-</section>
-
-<!-- ───────────────────────────────────────── -->
-<!-- GRATITUDE PRAYER -->
-<!-- ───────────────────────────────────────── -->
-<section class="container-section" id="gratitude">
-    <div class="section-header">
-        <h2>Gratitude</h2>
-        <p class="section-sub">A daily gratitude prayer to keep perspective</p>
-    </div>
-    <div class="gratitude-wrap" id="gratitude-body">
-        <div class="ai-loading">
-            <div class="spinner"></div>
-            <p>Preparing today's gratitude prayer…</p>
-        </div>
-    </div>
-</section>
-
-<!-- ───────────────────────────────────────── -->
-<!-- CTA — Meetings -->
-<!-- ───────────────────────────────────────── -->
-<div class="cta">
-    <button class="AA" onclick="window.open('https://www.aa.org/find-aa','_blank')">Find an AA Meeting</button>
-    <button class="NA" onclick="window.open('https://www.na.org/meetingsearch/','_blank')">Find an NA Meeting</button>
-    <button class="SA" onclick="window.open('https://sa.org/find-a-meeting/','_blank')">Find an SA Meeting</button>
-    <p>If you're trying to get sober, go to a meeting. Even if you're unsure, just listen. Take what helps and leave the rest. Your mind may resist — but that's normal. The real question is: What do you want? A better future is possible.</p>
-</div>
 
 <!-- ───────────────────────────────────────── -->
 <!-- ONLINE MEETING NOW -->
@@ -246,17 +241,46 @@
 </footer>
 
 <!-- Email modal (placeholder) -->
-<div id="daily-email-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.6);z-index:1000;align-items:center;justify-content:center;">
-    <div style="background:#f5f1e8;padding:40px;border-radius:16px;max-width:400px;width:90%;text-align:center;">
-        <h3 style="margin-bottom:15px;color:#3a2a1a;">Members Daily Email</h3>
-        <p style="margin-bottom:20px;color:#555;">Sign up to receive your daily reflection, affirmations, and gratitude prayer by email each morning.</p>
-        <input type="email" placeholder="your@email.com" style="width:100%;padding:12px;border:1px solid #b89663;border-radius:8px;margin-bottom:15px;font-size:1rem;">
-        <button style="background:#6b3e26;color:white;border:none;padding:12px 24px;border-radius:8px;cursor:pointer;font-size:1rem;width:100%;">Subscribe</button>
-        <p style="margin-top:15px;"><a href="#" onclick="document.getElementById('daily-email-modal').style.display='none'" style="color:#6b3e26;">Close</a></p>
+<div id="daily-email-modal" style="display:none;position:fixed;inset:0;background:rgba(44,37,32,0.55);z-index:1000;align-items:center;justify-content:center;">
+    <div style="background:#faf6ee;padding:44px;border-radius:16px;max-width:420px;width:90%;text-align:center;border:1px solid #e3d9c3;">
+        <h3 style="font-family:'Cormorant Garamond',Georgia,serif;font-size:1.6rem;margin-bottom:12px;color:#2c2520;">Members Daily Email</h3>
+        <p style="margin-bottom:22px;color:#5a5048;line-height:1.6;font-size:0.95rem;">Sign up to receive your daily reflection, affirmations, and gratitude prayer by email each morning.</p>
+        <input type="email" placeholder="your@email.com" style="width:100%;padding:13px;border:1px solid #e3d9c3;border-radius:8px;margin-bottom:14px;font-size:1rem;font-family:'Jost',sans-serif;background:#fff;">
+        <button style="background:#8a9d82;color:white;border:none;padding:13px 24px;border-radius:999px;cursor:pointer;font-size:0.85rem;width:100%;letter-spacing:1.5px;text-transform:uppercase;font-family:'Jost',sans-serif;">Subscribe</button>
+        <p style="margin-top:18px;"><a href="#" onclick="document.getElementById('daily-email-modal').style.display='none'" style="color:#6e8068;font-size:0.85rem;letter-spacing:1px;text-transform:uppercase;text-decoration:none;">Close</a></p>
     </div>
 </div>
 
 <script>
+// ─── Steps tabs ───────────────────────────────────────
+const stepDetails = {
+    1: {
+        title: 'Acknowledge You Have a Problem',
+        body: 'This is the most important step. Be honest with yourself and admit there is a problem. Write down your thoughts and feelings. Talk to someone you trust. The truth is where change begins.'
+    },
+    2: {
+        title: 'Seek Support',
+        body: "You don't have to do this alone. Support can come from therapy, meetings, friends, or family. Find what works for you and use it."
+    },
+    3: {
+        title: 'Build New Habits',
+        body: "Sobriety is about creating a life you don't want to escape from. Start small — one week sober, a new routine, a new hobby. Every small win builds confidence."
+    }
+};
+
+function selectStep(n) {
+    document.querySelectorAll('.step-tab').forEach(el => {
+        el.classList.toggle('active', Number(el.dataset.step) === n);
+    });
+    const panel = document.getElementById('step-panel');
+    const d = stepDetails[n];
+    panel.classList.add('fading');
+    setTimeout(() => {
+        panel.innerHTML = `<h3>${d.title}</h3><p>${d.body}</p>`;
+        panel.classList.remove('fading');
+    }, 150);
+}
+
 // ─── Date state ───────────────────────────────────────
 let currentDate = new Date();
 
@@ -428,6 +452,7 @@ function findMeetings(type) {
 
 // ─── Init ─────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
+    selectStep(1);
     document.getElementById('reflection-date-display').textContent = formatDate(currentDate);
     loadReflection(currentDate);
     loadAffirmations();
