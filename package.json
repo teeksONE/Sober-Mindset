@@ -1,0 +1,8 @@
+{
+  "name": "sober-mindset",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate-daily": "node scripts/generate-daily.js"
+  }
+}

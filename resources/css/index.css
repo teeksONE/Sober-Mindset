@@ -132,6 +132,16 @@ h1, h2, h3 {
     text-transform: uppercase;
 }
 
+.hero-sub {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.25rem;
+    color: rgba(255, 255, 255, 0.92);
+    font-style: italic;
+    line-height: 1.5;
+    max-width: 620px;
+    margin: 14px auto 0;
+}
+
 /* ─── Intro ─────────────────────────────────────── */
 .intro {
     padding: 60px 20px 40px;
@@ -145,7 +155,9 @@ h1, h2, h3 {
     line-height: 2;
     color: var(--text-soft);
     font-weight: 300;
+    margin-bottom: 18px;
 }
+.intro p:last-child { margin-bottom: 0; }
 
 /* ─── Steps (Interactive Tabs) ──────────────────── */
 .steps {
@@ -363,6 +375,12 @@ h1, h2, h3 {
     justify-content: center;
 }
 .nav-btn:hover { background: var(--sage); color: white; }
+.nav-btn:disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
+    background: transparent;
+    color: var(--sage-dark);
+}
 
 .reflection-theme {
     font-family: 'Cormorant Garamond', Georgia, serif;
@@ -669,6 +687,7 @@ h1, h2, h3 {
 }
 
 .search-btn {
+    display: inline-block;
     padding: 13px 22px;
     border: 1px solid var(--sage);
     border-radius: 999px;
@@ -679,6 +698,7 @@ h1, h2, h3 {
     color: var(--sage-dark);
     letter-spacing: 1.5px;
     text-transform: uppercase;
+    text-decoration: none;
     transition: all 0.25s ease;
 }
 .search-btn:hover { background: var(--sage); color: white; }
