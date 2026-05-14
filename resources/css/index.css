@@ -7,9 +7,9 @@
     --sage: #8a9d82;
     --sage-dark: #6e8068;
     --sage-soft: #d6dfd2;
-    --terracotta: #c87a5e;
-    --terracotta-dark: #a25d44;
-    --text: #2c2520;
+    --terracotta: #d96b3a;
+    --terracotta-dark: #a8512a;
+    --text: #1a1d1a;
     --text-soft: #5a5048;
     --text-muted: #8a8077;
     --border: #e3d9c3;
@@ -89,8 +89,8 @@ h1, h2, h3 {
 
 /* ─── Hero ─────────────────────────────────────── */
 .hero {
-    height: 440px;
-    background-image: url("../../files/IMG_9754.jpg");
+    height: 640px;
+    background-image: url("../../resources/images/lao-road.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -141,6 +141,7 @@ h1, h2, h3 {
     max-width: 620px;
     margin: 14px auto 0;
 }
+
 
 /* ─── Intro ─────────────────────────────────────── */
 .intro {
@@ -845,6 +846,75 @@ h1, h2, h3 {
     color: rgba(250, 246, 238, 0.35);
 }
 
+/* ─── Then / Now (intro before-after pair) ────────── */
+.then-now {
+    max-width: 1100px;
+    margin: 30px auto 10px;
+    padding: 0 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+}
+
+.then-now figure {
+    margin: 0;
+    background: var(--bg-card);
+    border-radius: var(--radius);
+    overflow: hidden;
+    border: 1px solid var(--border);
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    flex-direction: column;
+}
+
+.then-now img {
+    display: block;
+    width: 100%;
+    height: 360px;
+    object-fit: cover;
+}
+
+.then-now figcaption {
+    padding: 20px 24px;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.05rem;
+    font-style: italic;
+    line-height: 1.65;
+    color: var(--text-soft);
+}
+
+.then-now .label {
+    display: block;
+    font-family: 'Jost', sans-serif;
+    font-size: 0.72rem;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: var(--terracotta);
+    font-style: normal;
+    margin-bottom: 8px;
+}
+
+/* Photo under affirmations */
+.affirmations-img {
+    display: block;
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-top: 24px;
+}
+
+/* Photo on topic cards (Adventures) */
+.topic-card img {
+    display: block;
+    width: calc(100% + 56px);
+    height: 200px;
+    object-fit: cover;
+    margin: -30px -28px 18px;
+    border-top-left-radius: var(--radius);
+    border-top-right-radius: var(--radius);
+}
+
 /* ─── Site Nav ──────────────────────────────────── */
 .site-nav {
     background: var(--bg-card);
@@ -1058,6 +1128,8 @@ h1, h2, h3 {
     .activities-grid { grid-template-columns: repeat(3, 1fr); }
     .crisis-grid { grid-template-columns: repeat(2, 1fr); }
     .topic-grid { grid-template-columns: 1fr; }
+    .then-now { grid-template-columns: 1fr; }
+    .then-now img { height: 280px; }
 }
 
 @media (max-width: 768px) {
