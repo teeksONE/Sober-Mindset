@@ -894,14 +894,38 @@ h1, h2, h3 {
     margin-bottom: 8px;
 }
 
-/* Photo under affirmations */
+/* Photo under affirmations — anchored to bottom of section */
+#affirmations {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
 .affirmations-img {
     display: block;
     width: 100%;
     height: 400px;
     object-fit: cover;
     border-radius: 12px;
-    margin-top: 24px;
+    margin-top: auto;
+}
+
+/* Wide illustrative image — sits between content blocks on sub-pages */
+.wide-image {
+    max-width: 1100px;
+    margin: 50px auto;
+    padding: 0 30px;
+}
+.wide-image img {
+    display: block;
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-md);
+}
+@media (max-width: 768px) {
+    .wide-image { padding: 0 15px; margin: 30px auto; }
+    .wide-image img { height: 260px; }
 }
 
 /* Photo on topic cards (Adventures) */
