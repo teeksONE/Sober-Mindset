@@ -27,91 +27,45 @@ This project aims to:
 
 ---
 
-## Current Features
+## What's on the site
 
-* Clean landing page with a strong message
-* Hero section with motivational quote
-* “First 3 Steps to Sobriety” framework
-* Structured breakdown of each step
-* Call-to-action for finding meetings
-
----
-
-## Planned Features
-
-### Daily Reflections (AA)
-
-A section displaying daily readings and reflections inspired by AA materials.
+* **The Path** — recovery in five stages (Question, First days, Find your people, Rebuild, Live big). Each stage has a hub page and short pages in reading order, with a "next step" link at the bottom of every page.
+* **Tools** — Sober Counter, Urge Surf (craving timer), Daily Check-In, Crew Card (relapse prevention plan), and an AUDIT-C self-check. Everything is stored in the visitor's browser only.
+* **Community** — Find Your Room quiz, Find Your Crew directory, Crew Pact (a shareable challenge link), Stories, and a page for families.
+* **First Summer** — a 12-week adventure-sport programme for school leavers: the idea, the science, a sport-matching quiz, a sports menu, a week-by-week tracker and a page for schools, parents and clubs.
+* **Science** — every research claim on the site with its source.
+* **Daily** — reflection, affirmations and gratitude, generated each morning by `scripts/generate-daily.js` (GitHub Action).
+* **Help now** — crisis and helpline numbers by country.
 
 ---
 
-### Daily Activities
+## How to edit the site
 
-Rotating suggestions for newly sober individuals, such as:
+Pages are **generated**. Do not edit the `.html` files in the project root; they are overwritten on every build.
 
-* Going for a walk
-* Journaling
-* Attending a meeting
-* Trying a new hobby
+1. Edit the page content in `src/pages/<page>.html`. The block between the `---` lines at the top sets the title, description and so on.
+2. Run `npm run build`.
+3. Open `index.html`, or run `python3 -m http.server` and visit `http://localhost:8000` (the daily content needs a server).
 
----
+Other files worth knowing:
 
-### Daily Affirmation & Gratitude
+| File | What it controls |
+| --- | --- |
+| `src/site.config.js` | Site address, menu, the stages and the order of pages within them |
+| `scripts/build.js` | The page template (header, footer, stage rail, next/back links), `sitemap.xml`, `robots.txt` |
+| `resources/css/index.css` | All styling |
+| `resources/js/config.js` | Form endpoints and the community chat link (features stay hidden until these are filled in) |
+| `resources/js/*.js` | One script per tool |
+| `resources/images/web/` | Web-sized copies of the photos. Originals stay in `resources/images/` |
 
-A section dedicated to:
-
-* Daily affirmations
-* Gratitude-based reflections or prayers
-
----
-
-### Online Meeting Access
-
-Quick-access links to:
-
-* Current online AA meetings
-* Upcoming online meetings
-
-Designed for immediate support when needed most.
-
----
-
-### Local Meetings (Location-Based)
-
-A feature that:
-
-* Detects user location (with permission)
-* Shows nearest meetings
-* Displays schedules and details
+To add a page: create `src/pages/my-page.html` with front matter, add its name to a stage or sequence in `src/site.config.js`, and build. The build fails with a clear message if a link points to a page that does not exist.
 
 ---
 
 ## Tech Stack
 
-* HTML5
-* CSS3
-* (Planned) JavaScript for dynamic content
-
----
-
-## Future Development
-
-* Responsive design improvements
-* API integration for meetings and daily content
-* User personalization features
-* Email subscription system (daily mindset emails)
-
----
-
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/teeksONE/Sober-Mindset.git
-```
-
-Open `index.html` in your browser to view the site.
+* HTML, CSS and plain JavaScript. No framework and no dependencies.
+* A small Node build script (Node 18+).
 
 ---
 

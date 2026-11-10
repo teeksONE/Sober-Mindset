@@ -1,0 +1,43 @@
+---
+title: Daily Reflection
+nav: Daily
+seoTitle: Daily Sobriety Reflection, Affirmations and Gratitude
+description: A new sobriety reading every morning: a short reflection, three affirmations and a moment of gratitude, with an archive you can page back through.
+section: daily
+kicker: One day at a time
+script: daily.js
+lede: A short reading, three affirmations and a moment of gratitude. New every morning. Two minutes with a coffee.
+pager: none
+---
+<section class="tool" aria-live="polite">
+    <div class="reflection-date-nav">
+        <button class="nav-btn" id="prev-date" type="button" aria-label="Previous day">&#8592;</button>
+        <span class="reflection-date-label" id="reflection-date-display"></span>
+        <button class="nav-btn" id="next-date" type="button" aria-label="Next day" disabled>&#8594;</button>
+    </div>
+    <div id="reflection-body"><noscript><p>The daily reading needs JavaScript switched on.</p></noscript></div>
+</section>
+
+<section class="tool">
+    <h2>Three to carry today</h2>
+    <div class="affirmations-wrap" id="affirmations-body"></div>
+</section>
+
+<section class="tool">
+    <h2 style="text-align:center">Gratitude</h2>
+    <div id="gratitude-body"></div>
+</section>
+
+<section class="content-block">
+    <div data-needs="forms.email">
+        <h2>Get it by email</h2>
+        <form data-form="email" data-success="You're in. See you tomorrow morning.">
+            <div class="field"><label for="d-email">Email address</label><input type="email" id="d-email" name="email" required autocomplete="email" placeholder="you@example.com"></div>
+            <div class="btn-row"><button class="btn" type="submit">Send me the daily</button></div>
+            <p data-form-status role="status" style="margin-top:12px"></p>
+        </form>
+    </div>
+    <h2>Make it a habit</h2>
+    <p>Read it at the same time each day, then do your <a href="check-in.html">check-in</a>. Two minutes of reading and thirty seconds of honesty is a morning routine most people can keep.</p>
+    <p style="font-size:0.9rem;color:var(--text-muted)">Each day's reading is drafted with AI assistance in the voice and from the experience of the site's author. Quotes are attributed to their sources.</p>
+</section>

@@ -1,0 +1,37 @@
+---
+title: Crew Card
+seoTitle: Make a Relapse Prevention Plan: Your Crew Card
+description: A simple relapse prevention plan you can make in five minutes. Three people to call, your warning signs and what works for you. Saved privately, printable.
+card: Three people, your warning signs, what works. A plan for hard nights.
+section: tools
+kicker: Tool
+script: crew-card.js
+schema: WebApplication
+lede: On a hard night you won't think clearly. So do the thinking now. Three people, your warning signs, what works. Five minutes.
+---
+<section class="tool" id="crew-card-view" hidden></section>
+
+<section class="tool no-print">
+    <h2>Build your card</h2>
+    <form id="crew-form">
+        <h3>Three people I can call</h3>
+        <p class="hint" style="color:var(--text-muted);font-size:0.9rem">Ask them first. "Can I put you down as someone I call if it gets hard?" Almost everyone says yes, and asking is half the benefit.</p>
+        <div class="field-row"><div class="field"><label for="n1">Name</label><input type="text" id="n1" name="n1" maxlength="60" autocomplete="off"></div><div class="field"><label for="p1">Phone</label><input type="tel" id="p1" name="p1" maxlength="30" autocomplete="off"></div></div>
+        <div class="field-row"><div class="field"><label for="n2">Name</label><input type="text" id="n2" name="n2" maxlength="60" autocomplete="off"></div><div class="field"><label for="p2">Phone</label><input type="tel" id="p2" name="p2" maxlength="30" autocomplete="off"></div></div>
+        <div class="field-row"><div class="field"><label for="n3">Name</label><input type="text" id="n3" name="n3" maxlength="60" autocomplete="off"></div><div class="field"><label for="p3">Phone</label><input type="tel" id="p3" name="p3" maxlength="30" autocomplete="off"></div></div>
+
+        <div class="field"><label for="signs">My warning signs</label><span class="hint">What happens in the days before it gets bad? Skipping meals, not sleeping, cancelling plans, "I've got this now"?</span><textarea id="signs" name="signs" maxlength="400"></textarea></div>
+        <div class="field"><label for="helps">What works for me</label><span class="hint">The things that have actually got you through before.</span><textarea id="helps" name="helps" maxlength="400"></textarea></div>
+        <div class="field"><label for="place">Where I go</label><span class="hint">A place that isn't home and doesn't serve alcohol. The gym, the beach, a mate's couch, a meeting.</span><input type="text" id="place" name="place" maxlength="200"></div>
+        <div class="field"><label for="why">Why I'm doing this</label><span class="hint">One sentence, in your own words. You'll read it at the top of the card.</span><input type="text" id="why" name="why" maxlength="200"></div>
+
+        <div class="btn-row"><button class="btn" type="submit">Save my card</button><button class="btn btn-ghost" type="button" id="crew-clear">Clear</button></div>
+        <p class="private-note tool-foot">Saved in this browser only. Names and numbers never leave your device.</p>
+    </form>
+</section>
+
+<section class="content-block no-print">
+    <h2>Why write it down</h2>
+    <p>Counsellors call this a relapse prevention plan. The idea is simple. The part of your brain that makes good decisions goes quiet during a strong craving, so you make the decisions ahead of time and leave yourself instructions.</p>
+    <p>Print it or save it as a PDF and keep it where you'll see it. Update it whenever you learn something new about yourself, especially <a href="relapse.html">after a slip</a>.</p>
+</section>
