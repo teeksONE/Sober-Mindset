@@ -31,7 +31,7 @@
             (d.signs ? '<h3>My warning signs</h3><p>' + lines(d.signs) + '</p>' : '') +
             (d.helps ? '<h3>What works for me</h3><p>' + lines(d.helps) + '</p>' : '') +
             (d.place ? '<h3>Where I go</h3><p>' + lines(d.place) + '</p>' : '') +
-            '<div class="btn-row no-print"><button type="button" class="btn btn-ghost" data-print>Print or save as PDF</button></div>';
+            '<div class="btn-row no-print"><button type="button" class="btn" data-print>Print or save as PDF</button></div>';
         card.querySelector('[data-print]').addEventListener('click', function () { window.print(); });
     }
 
@@ -41,6 +41,14 @@
         if (!SM.save('crew-card', d)) SM.toast('Could not save on this device'); else SM.toast('Saved on this device');
         render(d);
         card.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    // Print straight from the form: saves what is typed, then prints the card.
+    document.getElementById('crew-print').addEventListener('click', function () {
+        var d = read();
+        render(d);
+        if (card.hidden) { SM.toast('Fill in at least one thing first'); return; }
+        SM.save('crew-card', d);
+        window.print();
     });
     document.getElementById('crew-clear').addEventListener('click', function () {
         if (!window.confirm('Clear your Crew Card from this device?')) return;
