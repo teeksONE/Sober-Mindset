@@ -34,7 +34,7 @@ This project aims to:
 * **Community** — Find Your Room quiz, Find Your Crew directory, Crew Pact (a shareable challenge link), Stories, and a page for families.
 * **First Summer** — a 12-week adventure-sport programme for school leavers: the idea, the science, a sport-matching quiz, a sports menu, a week-by-week tracker and a page for schools, parents and clubs.
 * **Science** — every research claim on the site with its source.
-* **Daily** — reflection, affirmations and gratitude, generated each morning by `scripts/generate-daily.js` (GitHub Action).
+* **Daily** — a fixed calendar of 366 readings, each with a gratitude line and three affirmations. Written in `content/daily/`, checked by `scripts/check-daily.js` and published by `scripts/build-daily.js` (both run as part of `npm run build`). Only entries marked `status: approved` are published; other dates show the fallback entry.
 * **Help now** — crisis and helpline numbers by country.
 
 ---

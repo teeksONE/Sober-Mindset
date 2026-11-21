@@ -1,0 +1,262 @@
+# February
+
+## 02-01 · Help to stop safely
+status: approved
+
+Stopping is a brave decision. For some people it is also one that needs a doctor involved. If you drink heavily every day, your body may have come to depend on alcohol, and stopping all at once can be risky. A doctor has seen this many times and will not be shocked by the real numbers. Telling them the truth is the whole appointment. Asking for this help shows how seriously you are taking it. If you stopped long ago, you may know someone who is where you once were. Pass this on to them. Getting through the first days safely matters more than getting through them alone.
+
+**Gratitude:** Today I'm grateful that help exists for the first days, and that I am allowed to ask for it.
+
+**Affirmations:** 13, 313, 212
+
+## 02-02 · When plans go wrong
+status: approved
+
+Sooner or later a plan falls over. The car breaks down. You miss the turn-off. The booking is lost, the track is closed, the ride doesn't show. In the drinking days, a setback like this could wreck the whole trip, or become the excuse for a long session at the nearest pub. With a clear head it is only a problem, and problems have next steps. You work out where you are. You ring someone. You wait, or walk, or change the plan. Often the detour ends up being the part you talk about afterwards. Handling one small disaster calmly teaches you that you can handle the next.
+
+**Gratitude:** Today I'm grateful for a clear head when things go sideways. It makes every problem smaller.
+
+**Affirmations:** 298, 169, 195
+
+## 02-03 · The day after a promise
+status: approved
+
+The day after a big promise is quieter than the day you made it. The excitement has worn down a little. Nobody is cheering. This is the point where many good intentions end, and it catches people at every stage, with every kind of promise. What carries on is something much plainer than enthusiasm. It is one small action, done again. Pour the water. Take the walk. Send the message. Go to bed sober. None of these needs you to feel inspired. Doing them is enough, and the feeling can catch up later or stay away. Small and repeated beats grand and abandoned.
+
+**Gratitude:** Today I'm grateful for one small thing I did again today, with or without the feeling.
+
+**Affirmations:** 2, 136, 334
+
+## 02-04 · Getting stronger
+status: approved
+
+Strength comes slowly, and that is the good thing about it. You lift something, or climb stairs, or hold a plank, and it is hard. You do it again in a few days. A month on, the same effort is easier and you didn't notice the moment it changed. Your body has been quietly answering what you asked of it. That is worth knowing on days when sobriety feels like it is going nowhere. Change is happening under the surface at a speed you can't see. You don't need a gym to begin. Carry the shopping. Do five push-ups against a bench. Add one more next time.
+
+**Gratitude:** Today I'm grateful for a body that answers when I ask something of it, even a little.
+
+**Affirmations:** 101, 218, 31
+
+## 02-05 · The experiment
+status: approved
+
+You don't have to treat sobriety as a verdict on your whole life. You can treat it as an experiment. Pick a length of time and watch what happens. How do you sleep? What are mornings like? Where does the money go? How do you feel in the evening, and around other people? Write a few notes so you can compare. Nobody can argue with what you observe for yourself. An experiment also takes the weight off. You are finding out, and finding out is hard to fail at. People with years behind them can run it too. Change one habit for a fortnight and see what you learn.
+
+**Gratitude:** Today I'm grateful for my own curiosity. It lets me look at my life without judging it.
+
+**Affirmations:** 29, 336, 126
+
+## 02-06 · Competition
+status: approved
+
+Enter something. A fun run, a club night, a local tournament, a quiz. Competition gives your effort an edge that training alone can't. Your heart is going before the start. You find out how you respond under a bit of pressure, and you usually find you can do more than you thought. Losing is useful as well. It shows you what to work on, and it is over by the time you get home. Much of the nervous energy that once went looking for a drink is happy to be spent this way. Pick a level where you are comfortably out of your depth, and line up.
+
+**Gratitude:** Today I'm grateful for the nerves that come with trying. They mean I am in the game.
+
+**Affirmations:** 292, 17, 149
+
+## 02-07 · A glass of water
+status: approved
+
+Thirst is a quiet signal, and it is easy to read as something else. It can show up as a headache, a low mood, a restless feeling, or a vague sense that you need something. For a long time, the answer to needing something was a drink. So try the plainest answer first. Have a big glass of water and give it ten minutes. Sometimes the feeling lifts completely. Sometimes it only eases, and then at least you know more about what is left. Keep a bottle where you can see it. This is about as small as a habit gets, and it is one you can keep on the worst day.
+
+**Gratitude:** Today I'm grateful for clean water, and for how often something simple is enough.
+
+**Affirmations:** 98, 162, 342
+
+## 02-08 · Earned highs
+status: approved
+
+Some highs have to be worked for. The top of a hill you walked up. The last length of the pool. A song you finally played all the way through. It arrives after the effort, and then it stays. Hours later you still feel good, and the next morning you are a little prouder and a little fitter. A drink gave a faster lift and sent the bill afterwards. This one is paid for in advance. You can't buy it, which is why it feels like yours. Do something today that takes real effort, and pay attention to how you feel when it is done.
+
+**Gratitude:** Today I'm grateful for any good feeling I earned by my own effort.
+
+**Affirmations:** 291, 328, 246
+
+## 02-09 · The day that drags
+status: approved
+
+Some days are simply long. Nothing is wrong, exactly. The hours just refuse to move. You check the time and ten minutes have passed. On days like this, the idea of a drink can show up as a way to make the clock go faster. You only have to finish the day. Nobody is asking you to fix it. Break it into pieces. Get to lunch. Get to the end of work. Get to dinner. Put something small and pleasant in each piece: a walk, a phone call, a good meal. Then go to bed a bit early. A dull day that ends sober has done its job, and tomorrow is rarely the same.
+
+**Gratitude:** Today I'm grateful that every long day ends, and that I can reach the end of this one.
+
+**Affirmations:** 173, 255, 94
+
+## 02-10 · Being coached
+status: approved
+
+Let someone teach you. It sounds simple, and it can be surprisingly hard. Being coached means admitting you don't know, doing it badly in front of another person, and trying it their way before your own. That takes some humility. It also saves you years. A good coach sees in a minute what you would take months to work out alone. This holds for swimming, climbing, cooking, money, and staying sober. Whoever has done the thing longer than you has something to hand over. Your part is to turn up, listen, and try what they suggest. Find one person who knows more than you, and ask.
+
+**Gratitude:** Today I'm grateful for anyone willing to show me how, and for my willingness to be shown.
+
+**Affirmations:** 294, 34, 264
+
+## 02-11 · The moderation idea
+status: approved
+
+After a good stretch, a particular thought tends to arrive. Things are going well. You feel healthy and in control. Perhaps you could drink normally now, the way other people seem to. The thought is persuasive because it shows up dressed as a reward for doing well. Look at when it appears. It rarely comes on a bad day. It comes when sobriety has made life better, and it offers to trade that away. You don't have to argue with it or be frightened of it. You can notice it, name it, and tell someone it paid a visit. Many people know this thought well, at every length of sobriety.
+
+**Gratitude:** Today I'm grateful for how things are when I am sober. That is worth keeping.
+
+**Affirmations:** 253, 104, 333
+
+## 02-12 · Tiredness in disguise
+status: approved
+
+When you are worn out, everything gets harder to refuse. Tiredness strips away patience and good sense, and what is left can feel very much like a craving. You want relief, quickly, and your mind offers the old solution. Before you believe it, ask how you slept and how long you have been going. If the honest answer is badly and too long, you have found the real problem. Rest is the fix. Sit down for ten minutes. Cancel one thing. Go to bed an hour early. Big decisions and tired evenings are a poor match. Most things look different after sleep, including how much you wanted that drink.
+
+**Gratitude:** Today I'm grateful for rest, and for a bed I can get into tonight.
+
+**Affirmations:** 41, 147, 361
+
+## 02-13 · Still here
+status: approved
+
+Some stretches are just hard. Things go wrong at work, at home or in your own head, and they keep going wrong for a while. If you are in one of those, or have just come out of one, stop and notice a plain fact. You are still here. You got through days you weren't sure you could get through. That counts whether you did it gracefully or by your fingernails, and it counts if there was a slip along the way and you came back. Being present at the end of a rough patch is an achievement all by itself. Take a breath and give yourself some credit.
+
+**Gratitude:** Today I'm grateful that I am still here. Whatever else is true, I made it to today.
+
+**Affirmations:** 274, 144, 350
+
+## 02-14 · Routines in a disrupted week
+status: approved
+
+At some point your schedule falls apart. Travel, visitors, illness, a deadline or a crisis takes over, and the routines that keep you steady get pushed aside. This is a risky time, and it helps to know that going in. You probably can't keep everything. Keep three things. Sleep at roughly your usual hour. Eat proper meals. Move your body for ten minutes a day. Those three hold up most of the rest. If you have a regular check-in with a person or a group, keep that as well, even by phone. When life settles, you will have something to return to, and returning will be easy.
+
+**Gratitude:** Today I'm grateful for the few simple habits that hold me up when everything else moves.
+
+**Affirmations:** 353, 303, 111
+
+## 02-15 · Your riskiest time
+status: approved
+
+Most people have one stretch of the day that is harder than the rest. For many it is early evening. For others it is late at night, or the hour after work, or mid-afternoon when the house is empty. It helps a great deal to know yours. Look back over the past while and notice when the urges tended to come. Once you can name the hour, it loses the advantage of surprise. You can put something in it. Eat then. Be somewhere else then. Ring someone then. Old habits are strongest at that hour, and new ones take a while to settle in. Give them time.
+
+**Gratitude:** Today I'm grateful for knowing myself a little better, including my hardest hour.
+
+**Affirmations:** 157, 239, 188
+
+## 02-16 · Small choices
+status: approved
+
+What you care about shows up in small decisions more than big ones. Whether you ring back when you said you would. Whether you tell the truth about a little thing. Whether you get up when the alarm goes. Nobody applauds any of this. Still, a day is made of these choices, and a life is made of days. If honesty matters to you, be honest once today where it would be easier to fudge. If family matters, give them ten minutes of full attention. You don't have to overhaul anything. Line up one ordinary choice with something you value, and notice how it feels to have done it.
+
+**Gratitude:** Today I'm grateful for one small choice I made today that I can stand behind.
+
+**Affirmations:** 219, 204, 36
+
+## 02-17 · Someone younger
+status: approved
+
+There is probably a young person somewhere in your life. A child, a niece or nephew, a little brother, an apprentice, the kid next door. Young people watch adults closely, and they learn far more from what you do than from what you tell them. You don't need to give advice or share your history. Being steady is enough. Turn up when you say you will. Remember what they told you. Stay calm when they get it wrong. A reliable adult is a rare and valuable thing to have. Sober, you are able to be one. If nobody comes to mind today, there are clubs and teams that need helpers.
+
+**Gratitude:** Today I'm grateful that I can be someone a younger person can rely on.
+
+**Affirmations:** 323, 170, 52
+
+## 02-18 · Earned confidence
+status: approved
+
+One kind of confidence is loud, comes in a glass and is gone by morning. Another kind builds slowly and stays. It comes from having done the thing. You went to the event sober. You made the phone call. You got through the hard day. Afterwards you know, from experience, that you can. Nobody can talk you out of that knowledge, because you were there. Each time adds a little more. You don't have to feel confident before you act. It works the other way round. Do one slightly daunting thing today, and let the confidence arrive afterwards.
+
+**Gratitude:** Today I'm grateful for every hard thing I have already done. Each one is proof I can draw on.
+
+**Affirmations:** 217, 123, 95
+
+## 02-19 · Boredom
+status: approved
+
+Boredom is uncomfortable, and it is harmless. It can't hurt you, though it can feel urgent, as if something must be done about it immediately. Drinking was a quick answer to that feeling. Without it, an empty hour can seem enormous. Try staying in it for a few minutes before you reach for anything. Boredom often has something underneath: tiredness, loneliness, or a wish to be doing something that matters more. It can also be the start of an idea. Many good things began because someone had nothing to do. Keep a short list of small activities for these moments, and remember that the feeling always passes.
+
+**Gratitude:** Today I'm grateful for a quiet hour, even a dull one. Nothing in it needs escaping.
+
+**Affirmations:** 154, 228, 325
+
+## 02-20 · The appetite for risk
+status: approved
+
+Some people are simply built to want more intensity. If that is you, you already know it. The pull toward speed, height, noise and the edge of things was there before the first drink. Alcohol and drugs were one way of feeding it, and a costly one. The appetite itself is fine. It is energy, and it can be pointed somewhere that builds you up. Climbing, surfing, fighting sports, fast bikes on a track, performing in front of a crowd. These give you the same charge and leave you stronger, more skilled and among good people. Learn from someone qualified, and let the appetite work for you.
+
+**Gratitude:** Today I'm grateful for my own energy. It is a strength when I point it well.
+
+**Affirmations:** 232, 343, 205
+
+## 02-21 · Mornings without dread
+status: approved
+
+There is a particular feeling that used to come with waking up. A moment of blankness, then the slow return of last night, then the checking: the phone, the wallet, the faces of other people. Sober mornings don't start that way. You open your eyes and you already know where you are and what you did. It is such a quiet change that it is easy to miss. If you are early in this, it may be the first gift you notice. If you are years in, you may have stopped noticing at all. Tomorrow morning, take ten seconds before you get up. Feel the absence of dread.
+
+**Gratitude:** Today I'm grateful for waking up and knowing exactly where I stand.
+
+**Affirmations:** 96, 165, 223
+
+## 02-22 · Treats
+status: approved
+
+Reward yourself, and do it on purpose. For a long time the reward was a drink, at the end of the day or the end of anything difficult. That slot is still there, and it is better filled than left empty. Choose treats that leave tomorrow untouched. A good coffee. A long bath. A film. New music. A meal out. An hour of doing nothing at all, without guilt. Set some of the money you are saving aside for it. A reward also marks the effort, and the effort is real. Decide what today's will be, and enjoy it when it comes.
+
+**Gratitude:** Today I'm grateful for small pleasures that ask nothing of tomorrow.
+
+**Affirmations:** 180, 103, 49
+
+## 02-23 · Appetite
+status: approved
+
+For a while your body may have lost track of when it was hungry and when it was full. Alcohol and drugs scramble those signals. Meals get skipped, or eaten at strange hours, or replaced altogether. When you stop, appetite comes back unevenly. You might be ravenous for a few weeks, or barely interested in food, or craving sugar at night. All of this is common, and it tends to settle. Help it along by eating at regular times, whether or not you feel like it. Then start listening. Notice real hunger when it arrives, and notice when you have had enough. Your body is learning to talk to you again.
+
+**Gratitude:** Today I'm grateful for the taste of food, and for a body that is telling me what it needs.
+
+**Affirmations:** 119, 200, 66
+
+## 02-24 · Stale routines
+status: approved
+
+The habits that keep you sober can go stale. The same walk, the same group, the same check-in, done so many times that you no longer feel anything while doing them. That flatness is easy to mistake for a sign that the habits have stopped working. Usually they are still doing their job, and you have simply stopped noticing. You don't need to throw anything out. Change one thing. Walk a different route. Try another meeting or class. Read something new on the subject. Ask someone how they keep it fresh. A small change is often enough to bring your attention back. Keep the structure and refresh a single part.
+
+**Gratitude:** Today I'm grateful for the habits that have held me up, even the ones I have stopped noticing.
+
+**Affirmations:** 270, 37, 302
+
+## 02-25 · Asking for help
+status: approved
+
+Asking for help is uncomfortable for about a minute. You have to find the words and get past the fear of being a burden. Then it is done, and the benefit can last for years. Most people are glad to be asked. It tells them they are trusted, and it gives them the chance to be useful. Think about how you feel when someone asks you. Start small if it is hard. Ask for a lift, an opinion, or half an hour of someone's time. The more you practise on small things, the easier it becomes when something large comes along. Ask one person for one thing today.
+
+**Gratitude:** Today I'm grateful that asking is open to me, and that people often say yes.
+
+**Affirmations:** 62, 282, 132
+
+## 02-26 · A date that matters
+status: approved
+
+Some dates carry weight. The day you stopped. The day you decided to try. The day something happened that changed your direction. It is worth marking these in a way that suits you, whether that means telling people or keeping it entirely to yourself. Do something deliberate on the day. Cook a favourite meal. Go somewhere you love. Write down what is different now. If your date was recent, or you have had to reset it, it matters just as much. If you don't have one yet, you can choose one. Any day will do, including this one. A date gives you a place to stand and look back from.
+
+**Gratitude:** Today I'm grateful for the day things began to change, whenever it was or will be.
+
+**Affirmations:** 317, 90, 177
+
+## 02-27 · Your corner
+status: approved
+
+Take a minute to count who is in your corner. Write the names down. A friend, a relative, a workmate, a counsellor, a doctor, someone from a group, a person online whose real name you don't know. The list may be longer than you expected. It may also be very short. If it is, that is useful to know, and one name is enough to start with. Even a helpline number belongs on it. People in your corner may not understand everything about you. Being on your side is what matters. Once you have the list, tell one of them, in your own words, that you are glad they are there.
+
+**Gratitude:** Today I'm grateful for anyone who is on my side, even if it is one person.
+
+**Affirmations:** 91, 133, 311
+
+## 02-28 · Old haunts
+status: approved
+
+One day you will walk past the old places. The pub on the corner, the bottle shop, the park, a certain house. For a while they pull at you, or make your stomach turn, or both. That reaction is memory doing its job, and it weakens with time. Early on, there is no shame in crossing the road or taking another route. Later you may find you can pass without much feeling at all, and one day you notice you didn't even look. Those places were a large part of your life once. They are part of the scenery now. Keep walking, and see where your feet take you.
+
+**Gratitude:** Today I'm grateful that I can keep walking, and that there are new places to go.
+
+**Affirmations:** 235, 92, 365
+
+## 02-29 · The extra day
+status: approved
+
+Today only exists once every four years. It can feel like a spare, a day that doesn't quite count. It counts exactly as much as any other. You wake up, you make a handful of decisions, and you go to bed. Staying sober today takes the same thing it took yesterday and will take tomorrow. That is the reassuring part. There are no special days that need a different method. One decision at a time works on birthdays, bad days, holidays and leap days alike. If you like, use the extra day for something you never get around to. Otherwise, just live it well.
+
+**Gratitude:** Today I'm grateful for a whole extra day, and for knowing how to spend it.
+
+**Affirmations:** 60, 243, 9

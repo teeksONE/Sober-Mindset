@@ -2,20 +2,24 @@
 title: Daily Reflection
 nav: Daily
 seoTitle: Daily Sobriety Reflection, Affirmations and Gratitude
-description: A new sobriety reading every morning: a short reflection, three affirmations and a moment of gratitude, with an archive you can page back through.
+description: A sobriety reading for every day of the year: a short reflection, three affirmations and a line of gratitude. Open today's, or any date that matters to you.
 section: daily
 kicker: One day at a time
 script: daily.js
-lede: A short reading, three affirmations and a moment of gratitude. New every morning. Two minutes with a coffee.
+lede: A short reading, three affirmations and a line of gratitude. One for every day of the year. Two minutes with a coffee.
 pager: none
 ---
 <section class="tool" aria-live="polite">
     <div class="reflection-date-nav">
         <button class="nav-btn" id="prev-date" type="button" aria-label="Previous day">&#8592;</button>
         <span class="reflection-date-label" id="reflection-date-display"></span>
-        <button class="nav-btn" id="next-date" type="button" aria-label="Next day" disabled>&#8594;</button>
+        <button class="nav-btn" id="next-date" type="button" aria-label="Next day">&#8594;</button>
     </div>
     <div id="reflection-body"><noscript><p>The daily reading needs JavaScript switched on.</p></noscript></div>
+    <div class="btn-row no-print" id="daily-actions" hidden>
+        <button class="btn" type="button" id="daily-share">Share</button>
+        <button class="btn btn-ghost" type="button" id="daily-save" aria-pressed="false">Save</button>
+    </div>
 </section>
 
 <section class="tool">
@@ -26,6 +30,27 @@ pager: none
 <section class="tool">
     <h2 style="text-align:center">Gratitude</h2>
     <div id="gratitude-body"></div>
+</section>
+
+<section class="tool no-print">
+    <h2>Open any date</h2>
+    <p>Every date has its own reading, the same one each year. Try your sobriety date or your birthday.</p>
+    <form id="date-picker">
+        <div class="field-row">
+            <div class="field"><label for="pick-month">Month</label><select id="pick-month"></select></div>
+            <div class="field"><label for="pick-day">Day</label><select id="pick-day"></select></div>
+        </div>
+        <div class="btn-row">
+            <button class="btn" type="submit">Open this date</button>
+            <button class="btn btn-ghost" type="button" id="pick-today">Back to today</button>
+        </div>
+    </form>
+</section>
+
+<section class="tool no-print" id="saved-section" hidden>
+    <h2>Saved</h2>
+    <ul class="help-list" id="saved-list"></ul>
+    <p class="private-note tool-foot">Saved on this device only.</p>
 </section>
 
 <section class="content-block">
@@ -39,5 +64,5 @@ pager: none
     </div>
     <h2>Make it a habit</h2>
     <p>Read it at the same time each day, then do your <a href="check-in.html">check-in</a>. Two minutes of reading and thirty seconds of honesty is a morning routine most people can keep.</p>
-    <p style="font-size:0.9rem;color:var(--text-muted)">Each day's reading is drafted with AI assistance in the voice and from the experience of the site's author. Quotes are attributed to their sources.</p>
+    <p style="font-size:0.9rem;color:var(--text-muted)">The readings were drafted with AI assistance and reviewed by the site's author before publishing.</p>
 </section>

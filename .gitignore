@@ -1,7 +1,7 @@
 # macOS
 .DS_Store
 
-# Node (gets installed locally if you run scripts/generate-daily.js)
+# Node
 node_modules/
 npm-debug.log*
 

@@ -1,0 +1,271 @@
+# June
+
+## 06-01 · Double-edged traits
+status: approved
+
+The traits that got you into trouble can get you out. Stubbornness kept you drinking long after it stopped being fun, and the same stubbornness can keep you sober through a rough month. An obsessive streak once tracked down the next drink, and it can as easily fix on training, study or a craft. Charm that talked your way out of things can welcome a newcomer. Appetite for risk can go into sport. Nothing about you needs to be thrown away. The engine is sound. The direction is what changes. Make a list of the qualities that fed the problem, and beside each, write where it could be useful now.
+
+**Gratitude:** Today I'm grateful for the traits I have, and for putting them to better use.
+
+**Affirmations:** 241, 21, 117
+
+## 06-02 · Making things
+status: approved
+
+Make something that didn't exist this morning. A drawing, a loaf, a song, a garden bed, a piece of code, a bookshelf. Creating is an adventure of its own kind. You start without knowing how it will turn out. You make choices, hit problems and work around them. At the end there is a thing in the world with your mark on it. How good it is matters very little. The making does something for you that watching and scrolling can't. It uses the restless, inventive part of you that may once have gone looking for trouble. Give yourself an hour and some cheap materials, and see what turns up.
+
+**Gratitude:** Today I'm grateful for being able to make something with my own hands and head.
+
+**Affirmations:** 304, 147, 256
+
+## 06-03 · Saying it happened
+status: approved
+
+If you slip, tell someone soon. The same day is best. A slip kept secret grows heavier by the hour, and it starts to feel like a second life that has to be hidden. Said aloud to a person you trust, it shrinks back to its real size: something that happened, on one day. You may dread their reaction. People who understand recovery rarely respond with anger. More often they are relieved that you told them, and they ask what you need. One sentence is enough to begin. If you have never slipped, you can be the person someone else is able to tell.
+
+**Gratitude:** Today I'm grateful that I can tell the truth about a hard day and be met with kindness.
+
+**Affirmations:** 248, 100, 64
+
+## 06-04 · The clock
+status: approved
+
+Sometimes the trigger is simply the time. Five o'clock arrives, or the kids are finally in bed, or the last task of the day is done, and something in you expects a drink. Nothing else has to be wrong. The body learned a schedule and it is keeping to it. A clock-based urge is one of the easiest kinds to plan for, because you know exactly when it will come. Put something else in that slot and repeat it until it becomes the new expectation. A walk, a shower, a cup of tea made slowly, dinner started early. In time the clock will start reminding you of that.
+
+**Gratitude:** Today I'm grateful that the same hour can come to mean something new.
+
+**Affirmations:** 38, 65, 109
+
+## 06-05 · Restlessness
+status: approved
+
+Restlessness is the itch to be anywhere but here. You can't settle to a book, a show or a conversation. You pace, open the fridge, pick up the phone and put it down. In the past this feeling often ended at the bottle shop. It is energy with no job. The simplest answer is to give it one. Go for a fast walk. Wash the car. Rearrange a room. Ring someone and talk while you move. If you can't shift it, let it be there without obeying it. Restlessness usually burns itself out within the hour, and you will have a clean car to show for it.
+
+**Gratitude:** Today I'm grateful for the energy I have, even when it won't sit still.
+
+**Affirmations:** 177, 283, 319
+
+## 06-06 · Earning trust
+status: approved
+
+Trust comes back slowly, and it comes back through small things. You say you will ring at six and you ring at six. You say you will pick up the kids and you are there early. Each kept promise is small, and the people around you are counting them, whether or not they say so. It can be frustrating to be doubted when you know you have changed. From their side, they have heard promises before. Words can't speed this up. Time and consistency can. Keep your commitments small enough to be certain of, and let the record build. One day you will notice that nobody is checking.
+
+**Gratitude:** Today I'm grateful for every chance to keep my word.
+
+**Affirmations:** 84, 93, 123
+
+## 06-07 · Adding it up
+status: approved
+
+Sit down with a calculator and work out what it cost. A typical week of drinks, multiplied by fifty-two. Add the taxis, the late-night food, the lost wallets, the fines, the days off work. Multiply by the number of years. The total is usually startling. The point is to see clearly, and beating yourself up helps nobody. That money is spent. What the sum shows you is what becomes available from now on. Work out what a sober month puts back in your pocket, and decide where it will go. Seeing the number in dollars makes the gain as real as the loss was.
+
+**Gratitude:** Today I'm grateful for what stays in my pocket now, whatever the amount.
+
+**Affirmations:** 183, 124, 106
+
+## 06-08 · Doubt
+status: approved
+
+Some days you will wonder whether any of this is worth it. Life is still hard. The problems didn't vanish. Other people seem to drink and get on fine. Doubt is a normal part of any long commitment, and having it is no sign that you are about to give up. Let it speak, and then check it against what you know. How were the mornings before? What has improved, even slightly? What would going back really look like a few weeks in? There is no need to win the argument today. You can stay sober while doubting, and see how things look after a sleep.
+
+**Gratitude:** Today I'm grateful that I can have doubts and carry on anyway.
+
+**Affirmations:** 255, 364, 305
+
+## 06-09 · People who left
+status: approved
+
+Some people stepped away while you were drinking, and some have stayed away. A friend, a sibling, a former partner. It hurts, especially when you have changed and want them to see it. They made the choice they needed to make to protect themselves, with what they knew at the time. That deserves respect, even when it feels unfair. You can let them know, once and without pressure, that you are sorry and that the door is open. Then leave it with them. Chasing tends to push people further off. Some come back in their own time. Others don't, and you can wish them well from a distance.
+
+**Gratitude:** Today I'm grateful for what those people gave me while they were in my life.
+
+**Affirmations:** 321, 234, 348
+
+## 06-10 · Time passing
+status: approved
+
+The days are going to pass whatever you do with them. A year from now will arrive on schedule. The only open question is what will be in it. This can sound heavy, and it can also be freeing. Time moves without your help and can't be held back. What is yours to decide is how to spend the piece in front of you. A year of sober days is built from ordinary ones, lived one after another. So is a degree, a trade, a mended friendship or a fit body. Whatever you would like to have a year from now, put a small piece of it into today.
+
+**Gratitude:** Today I'm grateful for today, and for the say I have in how it is spent.
+
+**Affirmations:** 181, 208, 365
+
+## 06-11 · Rose-tinted occasions
+status: approved
+
+Memory is generous to old celebrations. You remember the laughing, the music, the feeling of being at the centre of things. You are less likely to remember the argument in the car park, the money gone, the next day lost. When a big occasion comes around, those polished memories can make a sober version seem thin. Run the whole film. How did those nights usually end? How did you feel the following afternoon? What did you miss or forget? The past was a mix, like everything. Being honest about it frees you to enjoy what is in front of you now, including the drive home and the morning after.
+
+**Gratitude:** Today I'm grateful for celebrations I can enjoy from start to finish.
+
+**Affirmations:** 357, 32, 198
+
+## 06-12 · A new evening
+status: approved
+
+Evenings used to have a shape. Work ended, the first drink was poured, and the night ran on rails from there. Take the drink out and the shape goes with it. You need a new one. Build it in three parts. Something to mark the end of the day: a shower, a walk, a change of clothes. Something to do in the middle: cook, train, see someone, work on a project. Something to wind down with: a book, a show, a stretch. Keep the same order for a couple of weeks. A new evening feels strange at first and then becomes simply what evenings are.
+
+**Gratitude:** Today I'm grateful for an evening that is mine to shape.
+
+**Affirmations:** 158, 68, 267
+
+## 06-13 · Boundaries
+status: approved
+
+Protecting your sobriety will sometimes disappoint someone. You leave the party early. You say no to the trip. You tell a relative that you won't be coming if there is going to be heavy drinking. They may be hurt or annoyed, and that is uncomfortable for both of you. A boundary is a statement about what you will do. It leaves the other person free to live as they choose. You can say it kindly and you can say it once. There is no need to argue it. People who care about you usually come round, and some respect you more for it. Your sobriety supports everything else, so it is worth guarding.
+
+**Gratitude:** Today I'm grateful that I am allowed to protect what matters to me.
+
+**Affirmations:** 78, 205, 53
+
+## 06-14 · Coming home
+status: approved
+
+The end of a trip can be a low point. You have been somewhere new, sleeping well, moving all day, and then you walk back into the same kitchen and the same routine. The flatness is normal. Before it settles in, take something from the trip and keep it. It might be a habit, such as early mornings or long walks. It might be an idea about how you want to live, or a person to stay in touch with. Unpack the same day. Look through the photos. Put the next small adventure in the calendar. Home is where the trip gets turned into part of your life.
+
+**Gratitude:** Today I'm grateful for a home to come back to, and for what I brought back with me.
+
+**Affirmations:** 301, 25, 199
+
+## 06-15 · Joy
+status: approved
+
+When joy comes back, it can feel strange. You are laughing at something, or standing in the kitchen feeling good for no reason, and a part of you tenses, waiting for the catch. For a long time, good feelings came from a bottle and had to be paid for later. It takes a while to trust the kind that comes free. You are allowed to have it. Nothing bad has to follow. When you notice a moment of joy, stay in it a few seconds longer than is comfortable. Let your shoulders drop. With practice you get better at feeling good, the same as with anything else.
+
+**Gratitude:** Today I'm grateful for any moment of joy, and for letting myself have it.
+
+**Affirmations:** 131, 226, 173
+
+## 06-16 · Partners
+status: approved
+
+When one person in a relationship stops drinking, the whole relationship shifts. Routines you shared may have revolved around a drink. Your partner might be relieved, wary, or unsure where they fit now. If they still drink, there are practical things to sort out. If they were hurt by your drinking, they may need time before they relax. Both of you are adjusting. Talk about it plainly: what helps you, what worries them, what you might do together now. Be patient with their pace, and ask them to be patient with yours. Some couples find it useful to get outside help. A changed relationship can be a better one.
+
+**Gratitude:** Today I'm grateful for anyone who is adjusting alongside me.
+
+**Affirmations:** 87, 264, 150
+
+## 06-17 · Hearing someone out
+status: approved
+
+When someone is struggling, the urge is to fix it. You want to offer advice, a plan, the thing that worked for you. Most of the time, what they need first is to be heard. Let them talk. Ask a question or two. Leave the silences alone. Say back what you heard, so they know it landed. You may never give a single suggestion, and they will still go away lighter. If they ask what you would do, tell them briefly. Listening like this is harder than advising, and it is worth far more. You know what it is like to be on the other side.
+
+**Gratitude:** Today I'm grateful for the people who listened to me without trying to fix me.
+
+**Affirmations:** 309, 222, 193
+
+## 06-18 · Places
+status: approved
+
+Places hold instructions. A certain pub, a friend's back deck, the kitchen bench, the car park after a game. Walk in, and your body remembers what it used to do there. The pull can be strong, even when you were fine a minute earlier. Knowing this lets you plan. Some places can be avoided for a while. Others, like your own kitchen, have to be rewritten. Change what you can: move the furniture, use a different cup, sit in another chair. Then do something new there, many times, until the old instruction fades. A place can learn a new meaning, and so can you.
+
+**Gratitude:** Today I'm grateful that a place can come to mean something different.
+
+**Affirmations:** 36, 108, 306
+
+## 06-19 · Intensity
+status: approved
+
+Some people run hot. They feel more, want more and go harder than those around them. If that is you, an ordinary life at half speed was never going to be enough, and drinking or drugs may have been the nearest thing that matched your pitch. That drive needs a target worthy of it. Something difficult, with a long road and real stakes. A demanding sport. A trade or a craft done to a high standard. A business. A cause. Pour yourself into it the way you once poured yourself into a night out. Intensity that is well aimed is what gets remarkable things done.
+
+**Gratitude:** Today I'm grateful for how strongly I feel and how hard I can work.
+
+**Affirmations:** 231, 159, 284
+
+## 06-20 · Belonging
+status: approved
+
+People need to belong to something larger than themselves. A team, a club, a crew, a choir, a neighbourhood, a group that meets in the same room. For a while the pub may have been that place, with its regulars and its rituals. Sober, the need remains. Look for a group with a shared purpose, where turning up matters and you would be missed. It takes time to feel part of one. Go regularly. Learn names. Take on a small job, like setting out chairs or keeping the score. Belonging grows from being useful, and one day you realise that you are counted as one of them.
+
+**Gratitude:** Today I'm grateful for any group I am part of, or could be.
+
+**Affirmations:** 330, 134, 361
+
+## 06-21 · Old photos
+status: approved
+
+Old photos can be hard to look at. There you are with a glass in your hand, eyes a little glazed, at a party you half remember. You might wince. You might feel a pang of longing for the fun of it. Try to look steadily, with neither. That person was doing what they knew how to do with what they had. They are part of how you got here. Keep the photos as a record. They need neither destroying nor framing. Put one beside a recent picture if you want to see how far you have travelled. Then close the album and get on with today.
+
+**Gratitude:** Today I'm grateful for the person I was, who got me as far as today.
+
+**Affirmations:** 236, 351, 331
+
+## 06-22 · Something in your hand
+status: approved
+
+At any event where people are drinking, get a drink of your own into your hand early. Soda and lime, ginger beer, a zero-alcohol beer if those sit well with you, a coffee. It does three jobs. Your hands have something to hold, which settles a surprising amount of awkwardness. People stop offering, because you clearly have one. And you are part of the round without drinking what the round is drinking. Bring your own if you are unsure what will be there. Choose something you like the taste of. A small thing, sorted in the first five minutes, makes the following three hours easier.
+
+**Gratitude:** Today I'm grateful for simple things that make a hard room easier.
+
+**Affirmations:** 52, 254, 120
+
+## 06-23 · Values
+status: approved
+
+What matters to you? It is a bigger question than it looks, and many people have never been asked. Try to answer in single words, such as honesty, family, freedom, skill, kindness or loyalty. Pick the three that feel most like yours, and write them down. Drinking tends to blur values, because it has you acting against them and then avoiding the thought. With a clear head you can see them again. They are useful. When a decision is hard, you can ask which choice fits them best. They also explain why some things bother you so much. Start with the three words, and look at them again tomorrow.
+
+**Gratitude:** Today I'm grateful for knowing a little more clearly what matters to me.
+
+**Affirmations:** 218, 338, 315
+
+## 06-24 · Something new
+status: approved
+
+Try something you have never done before. Book a class in a sport you have only watched. Go to a different kind of gig. Cook a cuisine you can't pronounce. Take a bus to a suburb you have never seen. Novelty wakes the brain up. Time slows down, and you notice more. It also reminds you that life is much wider than the track you have been walking. You may dislike what you try, and that is a fine result. You have learned something about yourself and you have a story. Put one new thing in the next few weeks. Go alone if nobody is free.
+
+**Gratitude:** Today I'm grateful for how much there still is to try.
+
+**Affirmations:** 276, 40, 202
+
+## 06-25 · Being outside
+status: approved
+
+A day spent entirely indoors gets narrow. The same walls, the same screen, the same thoughts going round. Step outside and it widens at once. There is distance to look at. The air moves. Other people are going about their lives. You don't need a hike or a beach. A walk around the block, lunch on a bench or ten minutes in the yard will do. Try to get out early in the day and again in the afternoon. Notice three things you can see and three you can hear. It is a small act, and it changes the scale of whatever you were worrying about.
+
+**Gratitude:** Today I'm grateful for the world outside my door and the room it gives me.
+
+**Affirmations:** 112, 271, 80
+
+## 06-26 · Coming back to support
+status: approved
+
+Drifting happens without anyone deciding it. You feel better, life gets busy, and the group, the counsellor or the friends who helped you see less and less of you. Often that is fine for a while. Then a hard patch comes and you find you are facing it alone. Going back can feel awkward, as if you owe an explanation. No explanation is owed. People are simply glad to see you, and nobody is keeping an attendance record. Walk in, send the message, make the call. If the old support no longer fits, try a different kind. Whatever you have been doing in between, you are welcome to return today.
+
+**Gratitude:** Today I'm grateful that the people who helped me are still there.
+
+**Affirmations:** 266, 340, 6
+
+## 06-27 · Paying your way
+status: approved
+
+There is quiet dignity in paying your own way. You cover your share of the bill without checking your balance first. You pay back what you borrowed. You shout a mate a meal because you can. For some people, drinking meant always being short, always owing, always making excuses when the bill arrived. If you are still catching up, that is all right. It comes in stages. Start with being square: pay what you owe, on time, in full where you can. Generosity follows naturally once there is something to be generous with. Notice how it feels to hand over your share without a knot in your stomach.
+
+**Gratitude:** Today I'm grateful for whatever I am able to pay for myself today.
+
+**Affirmations:** 188, 54, 137
+
+## 06-28 · The stress test
+status: approved
+
+Now and then life hands you something serious. A death, a breakup, a lost job, a diagnosis. This is the test nobody wants. Everything you have built is suddenly under load. In the first shock, do the simplest things. Tell someone straight away. Eat, even if you have no appetite. Stay away from places where a drink is easy to reach. Lean on your supports harder than feels polite. A drink would add a second disaster to the first, and the grief would still be waiting. If you get through this sober, you will know something about your own strength. Take it an hour at a time.
+
+**Gratitude:** Today I'm grateful for whatever is holding me up when things are at their hardest.
+
+**Affirmations:** 261, 18, 354
+
+## 06-29 · Responsibility
+status: approved
+
+Being given responsibility is a compliment. Someone hands you the keys, the roster, the child, the money or the difficult client, because they believe you will look after it. It may feel like a burden. Look at what it says. For a time, people may have quietly taken things out of your hands. Now they are putting things back. Carry what you are given with care. Ask for help if it is too heavy. Say so early if you can't manage something. If nobody has handed you much yet, look after what is already yours: your room, your word, your own day. More tends to follow.
+
+**Gratitude:** Today I'm grateful to be trusted with something, however small.
+
+**Affirmations:** 201, 110, 353
+
+## 06-30 · Halfway
+status: approved
+
+Today sits at the middle of the calendar. It is a good day to look at where your hours are going. There is no need to judge the first half or make promises about the second. Just look. On an ordinary day, how much of your time goes to work, to people, to rest, to screens, to things you love? Is that the mix you would choose? If one thing has crept too high, bring it down a little. If something you care about is getting nothing, give it half an hour. Wherever you are in sobriety, the hours are the real currency. Spend the next few on purpose.
+
+**Gratitude:** Today I'm grateful for the hours I have had this year, and for the ones still to come.
+
+**Affirmations:** 182, 42, 296

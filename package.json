@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate-daily": "node scripts/generate-daily.js",
-    "build": "node scripts/build.js"
+    "check-daily": "node scripts/check-daily.js",
+    "build-daily": "node scripts/build-daily.js",
+    "build": "node scripts/check-daily.js && node scripts/build-daily.js && node scripts/build.js"
   }
 }

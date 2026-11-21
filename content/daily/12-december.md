@@ -1,0 +1,280 @@
+# December
+
+## 12-01 · Money left over
+status: approved
+
+Look at your bank balance. At some point after you stop, there is money left at the end of the pay period that used to be gone. It may be a small amount. It is real, and it is yours. Notice it. Drinking is expensive in ways that hide: rounds, taxis, takeaway, impulse buys, days off. When that spending stops, the difference shows up quietly, and it is easy to let it leak into other things. Give it a job. Pay something off, save some, and spend a little on a thing that makes your life better. At a time of year when money is tight for many people, every dollar kept counts.
+
+**Gratitude:** Today I'm grateful for whatever is left in my pocket today.
+
+**Affirmations:** 184, 178, 352
+
+## 12-02 · The newcomer
+status: approved
+
+You remember what the door felt like. The dread in the car park. The certainty that everyone would stare. That memory makes you exactly the right person to help someone through it. When a new face appears, at a group or a club or a gym, go over. Say hello and give your name. Tell them it is good they came. Show them where things are. Wisdom and years are optional. A person who arrived last month can welcome one who arrived today. Being greeted can decide whether someone returns. It also reminds you how far you have come from your own first day.
+
+**Gratitude:** Today I'm grateful for whoever said hello to me when I was new.
+
+**Affirmations:** 308, 168, 46
+
+## 12-03 · Saying yes
+status: approved
+
+You may have spent years saying no to things. No to the early hike, because of the night before. No to the dinner, because there would be no drinking, or too much. No to anything that got in the way. Now you can say yes. Yes to the invitation you would once have dodged. Yes to helping a friend move. Yes to the class, the game, the trip away. Some of these will be awkward and some will be wonderful, and you won't know which until you go. Saying yes is how a life fills up with people and stories. Accept one thing soon that the old you would have skipped.
+
+**Gratitude:** Today I'm grateful for the things I am now free to say yes to.
+
+**Affirmations:** 175, 280, 329
+
+## 12-04 · What you leave
+status: approved
+
+What would you like to be remembered for? It is a large question, and it can cut through a lot of small ones. Few people want to be remembered for how much they could drink. Most hope it will be something like kindness, reliability, humour, skill, or the way they made others feel. Whatever your answer, you can start living it today, in small ways. Legacy is built from ordinary days, the same as everything else. Be patient with the person at the counter. Teach someone something. Keep your word. You are leaving a trace on everyone you meet, and you get to choose what kind.
+
+**Gratitude:** Today I'm grateful for the chance to leave something good behind me.
+
+**Affirmations:** 334, 171, 11
+
+## 12-05 · Study
+status: approved
+
+A sober brain holds on to what it learns. If you tried to study while drinking, you may remember reading the same page four times, or cramming through a hangover and losing it all within days. It works differently now. What you read at night is still there in the morning. You can follow a lecture to the end. You can build one idea on another. If you are studying, enjoy it. If you gave up on study years ago, believing you weren't clever enough, the problem may have been something else. Consider trying again: a short course, a certificate, one subject. You might surprise yourself.
+
+**Gratitude:** Today I'm grateful for a mind that remembers what it learns.
+
+**Affirmations:** 195, 249, 315
+
+## 12-06 · A slip
+status: approved
+
+If you drink after a period of staying sober, that is a slip. It is an event. It happened, and it is over. What it turns into depends on the next few hours. You can stop now, tell someone, and be back on your feet by tonight. Or you can decide it proves something, and keep going. The first is always open to you, however many drinks in you are. What came before a slip still stands. With parties everywhere at this time of year, more people slip now than at other times, and many of them steady themselves the same day. If today is that day, start from here.
+
+**Gratitude:** Today I'm grateful that I can stop and start again at any moment.
+
+**Affirmations:** 246, 143, 69
+
+## 12-07 · The repair timetable
+status: approved
+
+Your body is mending on its own timetable, and it can't be hurried. Some things improve within days. Others take months, and a few take years. You don't get to choose the order. It can be frustrating to do everything right and still feel tired or foggy. Trust that work is going on out of sight. You can support it with sleep, food, water and movement, and by adding no new strain. You can also ask a doctor what to expect, so that you have something better than guesses. Compare yourself with last year, and leave last week out of it. Healing is slow in the way that growing is slow.
+
+**Gratitude:** Today I'm grateful for the healing going on in me that I can't see.
+
+**Affirmations:** 117, 236, 4
+
+## 12-08 · Scrolling
+status: approved
+
+The phone is always there, and it will take as much of you as you offer. A few minutes of scrolling can become two hours of feeling nothing in particular. That numbness is familiar. It does a similar job to the one the drink did, with a smaller price. Notice when you reach for the phone. Is it boredom, loneliness, a feeling you would rather avoid? Put a little distance in the way. Leave it in another room for an hour. Take the worst apps off the home screen. Keep it out of the bedroom. You keep the phone. You just decide when it gets your attention.
+
+**Gratitude:** Today I'm grateful for an hour of my attention that I kept for myself.
+
+**Affirmations:** 164, 218, 270
+
+## 12-09 · One phone number
+status: approved
+
+One number you would truly ring is worth more than a list of twenty you never will. Think about who that person is. Someone who picks up. Someone you could say anything to at an awkward hour. It may be a friend, a relative, a mentor, a counsellor's after-hours line. If you have that number, check that it is saved and that they know they are your person. If you don't, finding one is the job for this month. Ask someone you trust whether you can call when things are rough. Most people are honoured to be asked. Add a helpline as a backup. Then, on the night you need it, you won't be searching.
+
+**Gratitude:** Today I'm grateful for one person I could ring at any hour.
+
+**Affirmations:** 70, 189, 131
+
+## 12-10 · Fitting in
+status: approved
+
+At a party, everyone seems to be holding the same thing, and you are holding something else. It can feel like a sign around your neck. Look again. People are far more interested in whether you are warm, funny and paying attention than in your glass. You belong in a group because of how you treat the people in it. Ask questions. Laugh at the jokes. Help carry the plates. Most of the room will never register what you are drinking. If belonging somewhere truly depends on matching drinks, it was a thin sort of belonging. You fit in by being good to be around.
+
+**Gratitude:** Today I'm grateful that I belong because of who I am.
+
+**Affirmations:** 224, 127, 208
+
+## 12-11 · Family and time
+status: approved
+
+You know you have changed. Your family may still be unsure. They have seen good stretches before, and they are protecting themselves from another disappointment. So they watch. They ask where you have been. They flinch when you are late. It stings, especially when you are working hard. Their caution is a record of what they went through, and it fades at its own speed. Arguing for trust slows it down. Being steady, month after month, speeds it up. At family gatherings this time of year, you have a chance to add to the evidence simply by being there, present and reliable.
+
+**Gratitude:** Today I'm grateful for my family's patience, and for the time to show them.
+
+**Affirmations:** 74, 166, 337
+
+## 12-12 · After the wave
+status: approved
+
+When a craving has passed, stop for a moment and notice what is left. The tightness has gone from your chest. Your thoughts have slowed. There is often a quiet, clean feeling, a little like a room after loud music stops. You came through, and nothing bad happened. People rarely pause here. They are just glad it is over and hurry on. That is a missed opportunity. Fix the calm in your memory: how it feels, how long the urge took to pass, what you did. Next time one builds, you can remind yourself what is on the other side. The calm after a craving is one of the best arguments for riding it out.
+
+**Gratitude:** Today I'm grateful for the calm that comes after an urge has passed.
+
+**Affirmations:** 59, 295, 61
+
+## 12-13 · The story you tell
+status: approved
+
+How you tell your own story changes how it sits in you. One version says you wasted years and hurt people, full stop. Another says you got lost, found a way back and learned things along the way. Both use the same facts. The first keeps you ashamed. The second lets you stand up. You are allowed to choose the telling that is both true and bearable. Leave nothing important out, and give yourself the same understanding you would give anyone else. With family and old friends around at this time of year, you may be asked. Have a short, honest version ready that you can say without flinching.
+
+**Gratitude:** Today I'm grateful that my story is still being written.
+
+**Affirmations:** 220, 181, 290
+
+## 12-14 · The pushy offer
+status: approved
+
+Most people accept a no the first time. Now and then someone keeps going. They say it is only one, that it is Christmas, that you are being boring. When a person keeps pressing a drink on you, they are telling you about their own drinking. Your no makes them uneasy, and a yes would settle them. That is theirs to deal with. Repeat your answer in the same calm tone, without adding reasons. Change the subject or move away. If they keep at it, leave. You owe nobody an argument. People who respect you take the first no, and there are plenty of them in every room.
+
+**Gratitude:** Today I'm grateful that my no is enough.
+
+**Affirmations:** 77, 230, 248
+
+## 12-15 · Stillness
+status: approved
+
+Sit still for five minutes. No phone, no music, no task. Put your feet on the floor and your hands in your lap. At first your mind will race and your body will want to get up. Stay. Then start to listen. What is your body saying? You may notice that you are hungry, or more tired than you realised, or that your chest is tight with something you haven't named. In a loud, busy month, five quiet minutes may be the only time today that you hear yourself. Nothing has to be fixed, and checking in is the whole exercise. Do it once today, and again tomorrow.
+
+**Gratitude:** Today I'm grateful for five still minutes and what I heard in them.
+
+**Affirmations:** 115, 312, 348
+
+## 12-16 · The first hour
+status: approved
+
+The first hour sets the tone. If it starts with a phone in your face and a rush out the door, the day tends to stay rushed. If it starts with a few calm, chosen things, you carry that with you. Decide on a short opening routine and do it before anything else. A glass of water. A few minutes of stretching, or outside. Something to eat. A look at what the day holds. It needn't take long. Sober mornings are one of the real gains, and this is how you use them. During a busy, disrupted month, a steady first hour can hold the whole day together.
+
+**Gratitude:** Today I'm grateful for the first hour of the day and a clear head to spend it with.
+
+**Affirmations:** 156, 152, 21
+
+## 12-17 · Decisions you remember
+status: approved
+
+Sober, you make your decisions with a clear head, and you remember making them. That sounds small. For some people it is a revolution. No more waking up to find you agreed to something, bought something or said something you have no memory of. Your choices are yours, made on purpose. They won't all be right. You will still misjudge things, as everyone does. But you will know why you chose as you did, and you can stand by it or change course honestly. At this time of year there are many small decisions: where to go, what to spend, when to leave. Make each one awake.
+
+**Gratitude:** Today I'm grateful that my decisions are my own.
+
+**Affirmations:** 204, 45, 79
+
+## 12-18 · Hope
+status: approved
+
+Hope can seem like wishing. The useful kind is closer to evidence. Look at what you have already done. You have got through cravings. You have survived bad days without drinking. You have told the truth when it was hard. Each of those is a reason to think you can do the next thing. Hope built on your own record is sturdy. It holds up in a bad mood, and nobody can argue it away. If your own record is short, borrow some. Other people's lives show what is possible until yours does. On a low day, list three things you have managed that you once thought you couldn't.
+
+**Gratitude:** Today I'm grateful for the hope I have earned, and for the hope I can borrow.
+
+**Affirmations:** 272, 132, 75
+
+## 12-19 · What you were given
+status: approved
+
+Nobody gets here entirely under their own steam. Somewhere along the line, help reached you. A nurse who was kind. A friend who told you the truth. A stranger's story at exactly the right moment. A teacher, a boss who gave you another chance, a writer you never met. Some of it you asked for, and some simply arrived. Take a few minutes to trace it. Write down the names, or the faces if you never knew the names. You may be surprised by how long the list is. Recognising what you were given takes nothing from what you did, and it puts you in good company.
+
+**Gratitude:** Today I'm grateful for every person who helped me, including the ones I never thanked.
+
+**Affirmations:** 306, 199, 226
+
+## 12-20 · The year's hard parts
+status: approved
+
+Before the year closes, look squarely at what was hard. Hold off on the bright side for now. What hurt? What did you lose? Where did you struggle, or fall short, or get knocked flat? Write it down plainly. Hard things that are skipped over tend to follow you into the next year. Hard things that are named can be set down. If there were slips, put them on the list without commentary. If there was grief, give it a line. Then look at the page and notice that you are here, having come through all of it. Tomorrow you can count what went right. Today, let the difficult parts be seen.
+
+**Gratitude:** Today I'm grateful that I came through the hard parts of this year.
+
+**Affirmations:** 355, 243, 294
+
+## 12-21 · The year's good parts
+status: approved
+
+Now look just as squarely at what went right. This can be harder than listing the difficulties, because the mind lets good things slide past. What are you glad happened? What did you do that you couldn't have done a year ago? Who came into your life, or came back? Count the small things: mornings, meals, laughs, days kept. If you had sober days this year, each one belongs on the list, however many or few. Write it all down, and make it at least as long as yesterday's. Put the two pages side by side. A year is made of both, and you lived all of it.
+
+**Gratitude:** Today I'm grateful for everything that went right this year.
+
+**Affirmations:** 356, 182, 19
+
+## 12-22 · Privacy
+status: approved
+
+At gatherings, people ask questions. Why aren't you drinking? Are you on antibiotics? Is something wrong? You owe nobody an answer. Your sobriety is yours to share or keep. A light reply usually ends it: you are driving, you feel better without it, you are taking a break. All of those can be true. With people you trust, you might say more. With a nosy relative across the table, you can smile and ask about their holiday. Decide before you arrive how much you are willing to say and to whom. Keeping something private is different from being ashamed of it. You are simply choosing your audience.
+
+**Gratitude:** Today I'm grateful that I decide what I share.
+
+**Affirmations:** 234, 35, 78
+
+## 12-23 · The day before
+status: approved
+
+The big days are nearly here. Use today to get ready. Check your plan for each one: where you will be, for how long, and how you will get home. Make sure there are drinks you like in the fridge and in the car. Tell one or two people that you may ring, and save their numbers where you can find them fast. Work out your exit line. Plan something for yourself in the quiet moments, such as a walk or a swim. Get a decent night's sleep. If you will be alone over the next few days, plan that just as carefully: food, films, a call, a community lunch.
+
+**Gratitude:** Today I'm grateful for a day to prepare, and for the people I can call on.
+
+**Affirmations:** 358, 38, 183
+
+## 12-24 · The night before Christmas
+status: approved
+
+Tonight carries a lot. Expectation, memory, family, and for many people a great deal of drink. Whether you are in a full house or on your own, keep it simple. Eat well. Have your own drink in your hand. Stay close to the people who are easy to be with. If old feelings rise, step outside and breathe, or send a message to someone who understands. Nobody needs the night to be magical. Getting through it kindly is plenty. Go to bed early if you can. Waking up tomorrow with a clear head will be the best present in the house.
+
+**Gratitude:** Today I'm grateful for a quiet night and a clear head in the morning.
+
+**Affirmations:** 359, 188, 89
+
+## 12-25 · Christmas Day
+status: approved
+
+Today is a long one. For some it means a crowded table and too much of everything. For some it means an empty chair. For others it means being alone while the world seems to celebrate. Whichever it is for you, the task is the same as on any other day. Stay sober until you go to sleep. Eat. Step outside when you need air. Ring someone, especially if you are on your own, and especially if you think they might be. If the day is good, enjoy it fully. If it is hard, it will end at midnight like every other. Reaching tonight sober is achievement enough.
+
+**Gratitude:** Today I'm grateful for this day, and for getting through it sober.
+
+**Affirmations:** 360, 192, 53
+
+## 12-26 · The day after
+status: approved
+
+The main event is over, and your guard comes down. That is what makes today risky. There is leftover food, leftover drink and often another gathering, with people settling in for a long afternoon. You are tired, and the plan you made only went as far as yesterday. Make a small one for today. Decide where you will be and when you will leave. Get outside early: a swim, a walk, a game of something. Keep your own drinks handy. If you got through the last two days sober, hold on to that through a third. If they didn't go to plan, today is a clean place to begin.
+
+**Gratitude:** Today I'm grateful for a new day, and for another chance to spend it well.
+
+**Affirmations:** 361, 262, 154
+
+## 12-27 · The in-between days
+status: approved
+
+The days between the two big celebrations have no shape. Work is shut, routines are off, and nobody knows what day it is. It can be restful. It can also be a long drift, with the fridge still full of drink and everyone a bit bored. Give these days a little structure of your own. Get up at a regular hour. Move your body every morning. Plan one thing a day: a beach trip, a film, a job around the house, a visit. See someone sober, or ring them. Keep meals regular. A loose frame is enough to turn a risky stretch into a real rest.
+
+**Gratitude:** Today I'm grateful for slow days and a few simple things to put in them.
+
+**Affirmations:** 362, 153, 144
+
+## 12-28 · What you want next
+status: approved
+
+With a new year close, there is pressure to make big resolutions. You can skip that. Try a quieter question: what do you want next? One or two things, small enough to picture. More mornings outdoors. A new skill. A friendship mended. A trip. Another year of sober days, taken singly. Write them down as wishes, with no deadlines and no punishments attached. Then think of the first small step for each, something you could do in the first few days of January. Wanting something for yourself is a healthy sign. It means you expect to be here, and you care how it goes.
+
+**Gratitude:** Today I'm grateful for having things to look forward to.
+
+**Affirmations:** 363, 271, 128
+
+## 12-29 · What to leave behind
+status: approved
+
+Choose one thing to leave in this year. A grudge. A habit that is doing you no good. A story about yourself that has stopped being true. A friendship that only takes. A piece of guilt you have carried long enough. Fixing it or fully understanding it can wait. Decide that it stays behind. Some people write it on paper and burn it, or throw a stone in the sea. A small ceremony can help the decision feel real. It may try to follow you, and you can put it down again. Travelling lighter makes the road ahead easier, whatever it holds.
+
+**Gratitude:** Today I'm grateful for what I can put down and walk on without.
+
+**Affirmations:** 364, 22, 331
+
+## 12-30 · Deciding about tomorrow night
+status: approved
+
+Tomorrow night is one of the biggest drinking nights of the year. Decide now how you will spend it. You have real choices. A party, with your own drinks and your own way home. Dinner with one or two people you trust. Fireworks with the kids. A sober event, in person or online. A film and an early night. Being asleep at midnight is a perfectly good way to see in a year. Whatever you pick, settle the details today: where, with whom, until when, and who you can ring. Tell someone the plan. Then tomorrow all you have to do is follow it.
+
+**Gratitude:** Today I'm grateful that I get to choose how tomorrow night goes.
+
+**Affirmations:** 365, 293, 28
+
+## 12-31 · The last night of the year
+status: approved
+
+Tonight the whole world seems to be drinking toward midnight. You are free to do it differently. You can see the year out clear, or you can sleep straight through it. Either way you will start tomorrow with nothing to regret and nothing to untangle. Think back for a minute before the night gets loud. Whatever this year held, you are here at the end of it. If it was your first sober year or your twentieth, or one with stops and starts, it was yours and you lived it. If you are out, leave when it stops being fun. If you are home, be easy on yourself. A new year begins the same way as every day: awake.
+
+**Gratitude:** Today I'm grateful for this year, all of it, and for being here to see it end.
+
+**Affirmations:** 366, 221, 18
