@@ -4,7 +4,7 @@
     if (!root) return;
     var esc = SM.esc;
 
-    var NAMES = { surf: 'Surfing', lifesaving: 'Surf lifesaving', dive: 'Freediving', climb: 'Climbing', mtb: 'Mountain biking', skate: 'Skateboarding', combat: 'Combat sports', trail: 'Trail running', sky: 'Skydiving', snow: 'Snow' };
+    var NAMES = { surf: 'Surfing', lifesaving: 'Surf lifesaving', dive: 'Freediving', climb: 'Climbing', mtb: 'Mountain biking', skate: 'Skateboarding', combat: 'Combat sports', trail: 'Trail running', sky: 'Skydiving', tunnel: 'Indoor skydiving', archery: 'Archery', snow: 'Snow' };
     var picks = (SM.load('summer-picks', []) || []).filter(function (k) { return NAMES[k]; });
 
     function taste(i) {

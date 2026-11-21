@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="UTF-8">
+<title>Daily reading card</title>
+<style>
+/* Instagram card for a daily reading: 1080 x 1350, styled as a page from an old book.
+   Everything is local. The paper is drawn with CSS gradients only. */
+@font-face { font-family: 'Cormorant Garamond'; src: url('fonts/CormorantGaramond.woff2') format('woff2'); font-weight: 500 600; font-style: normal; }
+@font-face { font-family: 'Cormorant Garamond'; src: url('fonts/CormorantGaramond-Italic.woff2') format('woff2'); font-weight: 500; font-style: italic; }
+@font-face { font-family: 'Jost'; src: url('fonts/Jost.woff2') format('woff2'); font-weight: 500; font-style: normal; }
+
+:root {
+    --ink: #2b2018;
+    --ink-soft: #5b4a3a;
+    --paper: #f2e8d2;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 1080px; height: 1350px; overflow: hidden; background: #d9c8a3; }
+
+.page {
+    position: relative;
+    width: 1080px;
+    height: 1350px;
+    padding: 104px 128px 92px;
+    display: flex;
+    flex-direction: column;
+    color: var(--ink);
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    background:
+        /* darker edges and corners */
+        radial-gradient(ellipse 78% 74% at 50% 48%, rgba(242, 232, 210, 0) 58%, rgba(150, 112, 62, 0.20) 100%),
+        linear-gradient(90deg, rgba(120, 88, 48, 0.16) 0, rgba(120, 88, 48, 0) 7%, rgba(120, 88, 48, 0) 94%, rgba(120, 88, 48, 0.12) 100%),
+        linear-gradient(180deg, rgba(120, 88, 48, 0.12) 0, rgba(120, 88, 48, 0) 5%, rgba(120, 88, 48, 0) 95%, rgba(120, 88, 48, 0.14) 100%),
+        /* a few faint age spots */
+        radial-gradient(circle at 14% 9%, rgba(160, 120, 70, 0.10) 0, rgba(160, 120, 70, 0) 9%),
+        radial-gradient(circle at 88% 83%, rgba(160, 120, 70, 0.09) 0, rgba(160, 120, 70, 0) 11%),
+        radial-gradient(circle at 71% 12%, rgba(160, 120, 70, 0.05) 0, rgba(160, 120, 70, 0) 6%),
+        var(--paper);
+}
+/* faint grain: fine crossed fibres plus an irregular speckle, all gradients */
+.page::before, .page::after { content: ''; position: absolute; inset: 0; pointer-events: none; }
+.page::before {
+    background:
+        repeating-linear-gradient(97deg, rgba(110, 82, 46, 0.022) 0 1px, rgba(0, 0, 0, 0) 1px 5px),
+        repeating-linear-gradient(8deg, rgba(110, 82, 46, 0.016) 0 1px, rgba(0, 0, 0, 0) 1px 9px),
+        repeating-linear-gradient(53deg, rgba(255, 250, 235, 0.045) 0 2px, rgba(0, 0, 0, 0) 2px 11px);
+}
+.page::after {
+    opacity: 0.55;
+    background:
+        radial-gradient(circle at 20% 30%, rgba(96, 70, 38, 0.13) 0 0.7px, rgba(0, 0, 0, 0) 1.2px) 0 0 / 11px 17px,
+        radial-gradient(circle at 70% 60%, rgba(96, 70, 38, 0.10) 0 0.6px, rgba(0, 0, 0, 0) 1.1px) 3px 5px / 19px 13px,
+        radial-gradient(circle at 40% 80%, rgba(255, 252, 240, 0.30) 0 0.8px, rgba(0, 0, 0, 0) 1.3px) 1px 2px / 17px 19px,
+        radial-gradient(circle at 85% 15%, rgba(96, 70, 38, 0.10) 0 0.9px, rgba(0, 0, 0, 0) 1.4px) 5px 1px / 23px 29px;
+}
+.page > * { position: relative; z-index: 1; }
+
+.running-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 40px;
+    padding-bottom: 18px;
+    border-bottom: 1.5px solid rgba(43, 32, 24, 0.45);
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    white-space: nowrap;
+}
+
+.title {
+    margin: 66px 0 14px;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 1.12;
+    text-align: center;
+    text-wrap: balance;
+}
+.title-rule { width: 84px; height: 1.5px; margin: 22px auto 44px; background: rgba(43, 32, 24, 0.45); }
+
+/* The reading fills whatever height is left. The script picks the font size. */
+.reading { flex: 1 1 0; min-height: 0; overflow: hidden; }
+.reading-text {
+    font-weight: 500;
+    line-height: 1.42;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphenate-limit-chars: 7 3 3;
+    text-wrap: pretty;
+    font-variant-numeric: oldstyle-nums;
+}
+.reading-text p + p { text-indent: 1.4em; }
+
+.folio {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 500;
+    font-variant-numeric: lining-nums;
+    letter-spacing: 0.04em;
+    color: var(--ink-soft);
+}
+</style>
+</head>
+<body>
+<div class="page">
+    <div class="running-head"><span id="theme"></span><span id="handle"></span></div>
+    <h1 class="title" id="title"></h1>
+    <div class="title-rule"></div>
+    <div class="reading"><div class="reading-text" id="reading"></div></div>
+    <div class="folio" id="folio"></div>
+</div>
+<script>
+// Called by scripts/cards.js for each date. Fills the page, then finds the
+// largest font size in the allowed range at which the reading fits.
+window.renderCard = async function (card) {
+    var box = document.querySelector('.reading');
+    var text = document.getElementById('reading');
+    document.getElementById('theme').textContent = card.theme;
+    document.getElementById('handle').textContent = card.handle;
+    document.getElementById('title').textContent = card.title;
+    document.getElementById('folio').textContent = card.page;
+    text.textContent = '';
+    card.reading.forEach(function (para) {
+        var p = document.createElement('p');
+        p.textContent = para;
+        text.appendChild(p);
+    });
+    await document.fonts.ready;
+
+    function fits(size) {
+        text.style.fontSize = size + 'px';
+        return text.scrollHeight <= box.clientHeight && text.scrollWidth <= box.clientWidth;
+    }
+    var size = card.maxSize, ok = false;
+    for (; size >= card.minSize; size -= 0.5) {
+        if (fits(size)) { ok = true; break; }
+    }
+    if (!ok) { size = card.minSize; fits(size); }
+    await new Promise(function (r) { requestAnimationFrame(function () { requestAnimationFrame(r); }); });
+    return { fits: ok, size: size, lines: Math.round(text.scrollHeight / (size * 1.42)) };
+};
+</script>
+</body>
+</html>

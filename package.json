@@ -5,6 +5,7 @@
   "scripts": {
     "check-daily": "node scripts/check-daily.js",
     "build-daily": "node scripts/build-daily.js",
-    "build": "node scripts/check-daily.js && node scripts/build-daily.js && node scripts/build.js"
+    "build": "node scripts/check-daily.js && node scripts/build-daily.js && node scripts/build.js",
+    "cards": "node scripts/cards.js"
   }
 }

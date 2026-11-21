@@ -18,3 +18,6 @@ npm-debug.log*
 
 # Windows
 Thumbs.db
+
+# Instagram cards and captions (made by `npm run cards`, not part of the site)
+social/

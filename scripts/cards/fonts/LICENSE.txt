@@ -1,0 +1,4 @@
+Cormorant Garamond (Christian Thalmann) and Jost (Owen Earl) are
+licensed under the SIL Open Font License 1.1. https://openfontlicense.org
+These are the Latin subsets served by Google Fonts, kept here so the
+card renderer works offline.
