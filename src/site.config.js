@@ -7,7 +7,7 @@ export default {
     // The public address of the site, with a trailing slash. Used for
     // canonical links, the sitemap and social-share previews.
     // Change this if the site moves to a custom domain.
-    siteUrl: "https://teeksone.github.io/Sober-Mindset/",
+    siteUrl: "https://yoursobermindset.com/",
 
     // Date the author got sober — drives the "N years sober" counters.
     soberDate: "2014-11-12",
