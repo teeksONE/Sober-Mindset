@@ -207,6 +207,7 @@ function footer() {
             ["The science", "science.html"],
             ["Daily reflection", "daily.html"],
             ["About", "about.html"],
+            ["Contact", "about.html#contact"],
             ["Help now", "help.html"],
         ])}
     </div>
